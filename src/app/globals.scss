@@ -1,0 +1,24 @@
+/**MIXIN**/
+@mixin flexCenter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@mixin flexCenterColumn {
+  @include flexCenter();
+  flex-direction: column;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.slide{
+    width: 100%;
+    min-height: 100vh;
+    position: relative;
+}
+.wrapper{
+    width: 85%;
+    margin: 0 auto;
+}
