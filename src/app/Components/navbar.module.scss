@@ -1,0 +1,139 @@
+@import '../variables.scss';
+
+header.navbar {
+    width: 100%;
+    min-height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    nav {
+        width: 50%;
+
+        ul {
+            list-style: none;
+            min-height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+
+            li {
+                a {
+                    text-decoration: none;
+                    color: $black;
+                    font-weight: 400;
+                    position: relative;
+                    font-size: 16px;
+
+                    &:after {
+                        content: "";
+                        position: absolute;
+                        bottom: -2px;
+                        left: 0;
+                        width: 100%;
+                        height: 1.5px;
+                        background-color: $black;
+                        transform: scaleX(0);
+                        transform-origin: left center;
+                        transition: transform 0.3s ease-in-out;
+                        z-index: 1;
+                    }
+
+                    &:hover::after {
+                        transform: scaleX(1);
+                    }
+                }
+            }
+        }
+    }
+}
+
+#burger {
+    display: none;
+    width: 50px;
+    cursor: pointer;
+    position: fixed;
+    right: 4%;
+    top: 3%;
+    z-index: 200;
+
+    .bar {
+        width: 100%;
+        height: 3px;
+        margin: 8px 0;
+        background-color: $black;
+        transition: 0.2s;
+    }
+
+    &.openBurger .bar:nth-child(1) {
+        background-color: $black;
+        transform: translate(0px, 11px) rotate(45deg);
+    }
+
+    &.openBurger .bar:nth-child(2) {
+        opacity: 0;
+    }
+
+    &.openBurger .bar:nth-child(3) {
+        background-color: $black;
+        transform: translate(0px, -11px) rotate(-45deg);
+    }
+
+    &.rotate180 {
+        transform: rotate(180deg);
+    }
+}
+
+#menuMobile {
+    width: 100%;
+    height: 100vh;
+    background-color: $background;
+    @include flexCenter();
+    position: fixed;
+    left: -100%;
+    z-index: 100;
+    transition: 0.2s;
+
+    nav ul {
+        list-style: none;
+
+        li {
+            margin: 30px 0;
+            text-align: center;
+
+            a {
+                color: $black;
+                text-decoration: none;
+                font-size: 2.5em;
+            }
+        }
+    }
+
+    &.openMenu {
+        left: 0 !important;
+    }
+}
+
+@media all and (max-width: 992px) {
+    header.navbar nav {
+        display: none;
+    }
+
+    #burger {
+        display: block;
+    }
+
+    #menuMobile nav ul li {
+        margin: 60px 0;
+    }
+
+    #menuMobile nav ul li a {
+        font-size: 2em;
+    }
+}
+
+@media all and (max-width: 992px) and (orientation: landscape) {
+    #menuMobile nav ul li a {
+        font-size: 1em;
+    }
+}

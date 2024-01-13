@@ -1,0 +1,21 @@
+
+$black:#252525;
+$beige:#F9E09D;
+$background:#E7D5D5;
+
+
+@mixin flexCenter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@mixin flexCenterColumn {
+  @include flexCenter();
+  flex-direction: column;
+}
+@mixin round{
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    background-color: $beige;
+}
