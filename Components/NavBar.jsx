@@ -1,20 +1,23 @@
 // Navbar component
-'use client'
-import { useState, useEffect } from 'react';
-import Link from 'next/link';
-import styles from './navbar.module.scss';
+"use client";
+import { useState, useEffect, useRef } from "react";
+import Link from "next/link";
+import styles from "./navbar.module.scss";
 
 export default function NavBar() {
   const [open, setOpen] = useState(false);
   const [scrollProgress, setScrollProgress] = useState(0);
+
+  const headerRef = useRef(null);
+  const progressbarRef = useRef(null);
 
   const handleMenuClick = () => {
     setOpen(!open);
   };
 
   useEffect(() => {
-    const header = document.querySelector(`.${styles.navbar}`);
-    const progressbar = document.getElementById(styles.progressbar);
+    const header = headerRef.current;
+    const progressbar = progressbarRef.current;
     const lastScrollValue = { current: 0 };
 
     const handleScroll = () => {
@@ -30,22 +33,23 @@ export default function NavBar() {
 
       //calculer la progression de la barre
       const windowHeight = window.innerHeight;
-      const documentHeight = document.documentElement.scrollHeight - windowHeight;
+      const documentHeight =
+        document.documentElement.scrollHeight - windowHeight;
       const progressWidth = (top / documentHeight) * 100;
       setScrollProgress(progressWidth);
       progressbar.style.width = `${scrollProgress}%`;
     };
 
-    window.addEventListener('scroll', handleScroll);
+    window.addEventListener("scroll", handleScroll);
 
     return () => {
-      window.removeEventListener('scroll', handleScroll);
+      window.removeEventListener("scroll", handleScroll);
     };
-  }, []);
+  }, [scrollProgress]);
 
   return (
     <>
-      <header className={`${styles.navbar} ${styles.show}`}>
+      <header ref={headerRef} className={`${styles.navbar} ${styles.show}`}>
         <nav>
           <ul>
             <li>
@@ -66,17 +70,32 @@ export default function NavBar() {
 
       <div
         id={styles.burger}
-        className={`${open ? styles.openBurger : ''} ${open ? styles.rotate180 : ''}`}
+        className={`${open ? styles.openBurger : ""} ${
+          open ? styles.rotate180 : ""
+        }`}
         onClick={handleMenuClick}
       >
-        <div className={`${styles.bar} ${open ? styles.openBurger1 : ''}`}></div>
-        <div className={`${styles.bar} ${open ? styles.openBurger2 : ''}`}></div>
-        <div className={`${styles.bar} ${open ? styles.openBurger3 : ''}`}></div>
+        <div
+          className={`${styles.bar} ${open ? styles.openBurger1 : ""}`}
+        ></div>
+        <div
+          className={`${styles.bar} ${open ? styles.openBurger2 : ""}`}
+        ></div>
+        <div
+          className={`${styles.bar} ${open ? styles.openBurger3 : ""}`}
+        ></div>
       </div>
 
-      <div id={styles.progressbar} style={{ width: `${scrollProgress}%` }}></div>
+      <div
+        ref={progressbarRef}
+        id={styles.progressbar}
+        style={{ width: `${scrollProgress}%` }}
+      ></div>
 
-      <div id={styles.menuMobile} className={`${styles.menuMobile} ${open ? styles.openMenu : ''}`}>
+      <div
+        id={styles.menuMobile}
+        className={`${styles.menuMobile} ${open ? styles.openMenu : ""}`}
+      >
         <nav>
           <ul>
             <li>

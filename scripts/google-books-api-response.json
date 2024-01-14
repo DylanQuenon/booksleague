@@ -1,0 +1,1806 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 752,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "0zoyEAAAQBAJ",
+      "etag": "9gUTG6qbQWw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0zoyEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Football et cognition",
+        "subtitle": "Compréhension du jeu et construction des connaissances tactiques en sports collectifs",
+        "publisher": "Editions L'Harmattan",
+        "publishedDate": "2021",
+        "description": "Football et cognition présente les travaux d’un groupe de chercheurs-formateurs intéressés par la didactique des sports collectifs en EPS. Les différents textes rendent compte d’un programme de recherche prenant pour objet l’apprentissage par la réflexion et le débat d’idées en sport collectif, programme initié dans les années 90 et qui se poursuit aujourd’hui. Ce programme a donné lieu à nombreuses publications scientifiques et ce livre ne vise pas à reprendre toutes les démonstrations largement présentées dans des productions antérieures, mais plutôt à approfondir le paradigme servant de toile de fond aux résultats obtenus.Les recherches technologiques sur l’intervention dans les sports collectifs s’intéressent à des questions de terrain en les soumettant à une attitude scientifique, ou la plus objective possible, susceptible de les éclairer. Elles se définissent comme des études portant sur les conditions de transmission et/ou d’appropriation des techniques corporelles, dans un système sociotechnique donné. Elles visent à accroître les connaissances sur l’intervention, et à contribuer à l’optimisation des procédures d’apprentissage, d’entraînement et d’enseignement.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782343231556"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2343231559"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 283,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0zoyEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0zoyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=0zoyEAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.be/books?id=0zoyEAAAQBAJ&dq=football&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Football_et_cognition.html?hl=&id=0zoyEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Football_et_cognition-sample-pdf.acsm?id=0zoyEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0zoyEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Football et cognition présente les travaux d&#39;un groupe de chercheurs-formateurs intéressés par la didactique des sports collectifs en EPS."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WZe-EAAAQBAJ",
+      "etag": "MGBGZaq0ong",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WZe-EAAAQBAJ",
+      "volumeInfo": {
+        "title": "La narcos league",
+        "subtitle": "Argent sale et football colombien (des années 1970 à nos jours)",
+        "authors": [
+          "Victor Massias"
+        ],
+        "publisher": "Documents Amériques latines",
+        "publishedDate": "2023-05-12",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782140341618"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2140341619"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 267,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WZe-EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WZe-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=WZe-EAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.be/books?id=WZe-EAAAQBAJ&dq=football&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_narcos_league.html?hl=&id=WZe-EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_narcos_league-sample-pdf.acsm?id=WZe-EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WZe-EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v66YEAAAQBAJ",
+      "etag": "zDWcyWiSYtI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v66YEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Notes sur le football",
+        "authors": [
+          "Pierre De Courbetin"
+        ],
+        "publisher": "BoD - Books on Demand",
+        "publishedDate": "2022-10-18",
+        "description": "Il y a dans les moeurs, comme dans l'histoire, des conquêtes imprévues. La marche triomphale du football à travers les habitudes jusqu'alors si sédentaires de notre jeunesse française en est un nouvel exemple. Le football avait tout contre lui. Son premier défaut était d'être anglais. On nous répète à chaque instant que nous sommes des anglomanes renforcés. Cela n'est pas ; car à part le petit groupe de gommeux parisiens qui affectent de ne porter que du linge blanchi à Londres, il suffit qu'une mode arrive d'Outre-Manche, pour qu'elle éveille aussitôt des susceptibilités « patriotiques » dans la presse et dans l'opinion. De plus, le football faisait son entrée chez nous précédé d'une réputation nettement établie de brutalité : les mères françaises qui craignent les rhumes et les engelures ne pouvaient dès lors lui faire un accueil sympathique. Enfin, c'est un jeu collectif : il exige la formation de deux équipes de onze ou quinze joueurs chacune : pour se déployer à l'aise, ces équipes ont besoin d'un vaste espace de terrain plat et gazonné. Autant de motifs pour que les maîtres ne fussent pas favorables à une innovation qui allait forcément compliquer... Mais il faut signaler un dernier désavantage auquel nul de ceux qui ont popularisé le football en France n'avait songé, et dont, pour ma part, j'ai été long à me rendre compte. Il est impossible au spectateur qui n'est pas « au courant » de comprendre quelque chose à ce qui se passe sous ses yeux. Il voit une mêlée, des bras et des jambes enchevêtrés, des poitrines qui se heurtent, des mains qui se crispent, toute une série d'efforts auxquels il s'intéressera s'il est peintre ou sculpteur, qui lui feront horreur s'il est pédagogue ou s'il a simplement l'âme sensible. Comment, en face de ce travail intense des muscles, la pensée lui viendrait-elle que des forces intellectuelles et morales sont, au même moment, mises à contribution et que rien ne sommeille dans l'être qui se débat là devant lui ? Les journalistes, horrifiés, en firent de terribles descriptions, propres à donner la chair de poule aux parents les moins craintifs; des listes de tués et de blessés, importées d'Angleterre, circulèrent comme pièces à l'appui ; certains proviseurs prirent sur eux de l'interdire aux lycéens. Rien n'y fit : la marée monta avec une parfaite régularité. Les jeunes gens mirent, à vaincre tous les obstacles, une persévérance dont nul ne les aurait crus capables.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782382742341"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2382742348"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v66YEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v66YEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=v66YEAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.be/books?id=v66YEAAAQBAJ&dq=football&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Notes_sur_le_football.html?hl=&id=v66YEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Notes_sur_le_football-sample-pdf.acsm?id=v66YEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v66YEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Il y a dans les moeurs, comme dans l&#39;histoire, des conquêtes imprévues. La marche triomphale du football à travers les habitudes jusqu&#39;alors si sédentaires de notre jeunesse française en est un nouvel exemple."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FwqVEAAAQBAJ",
+      "etag": "yjN2YpPUwWU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FwqVEAAAQBAJ",
+      "volumeInfo": {
+        "title": "La belle équipe du football français",
+        "subtitle": "50 ans de légende de Platini à Mbappé",
+        "authors": [
+          "Jean-David Haddad",
+          "Yoann Laurent-Rouault"
+        ],
+        "publisher": "BoD - Books on Demand",
+        "publishedDate": "2022-10-18",
+        "description": "Un livre unique qui offre une vision encyclopédique et passionnée du football français, sans parti pris ! Jacquet, Mbappé, Zidane, Cantona, JPP, Griezmann, Platini... Neuf portraits complets de joueurs et entraîneurs de légende, accompagnés de plusieurs dossiers bonus sur des joueurs, entraîneurs et présidents de clubs internationaux historiques et incontournables. Le lecteur y trouvera aussi huit Coupes du monde en dossier bonus, avec les reprises des matchs phares joués par l’équipe de France dans les compétitions et la programmation connue de la Coupe du monde de 2022. Et aussi six coupes titres en dossier bonus, ainsi que sept autres dossiers bonus footballistiques surprenants sur 50 ans de légende du football français et mondial. Plus de 400 joueurs de toutes nationalités sont cités en références footballistiques et 50 invités en « loges présidentielles ». Le tout agrémenté de 10 commentateurs sportifs de légende dont 3 dossiers bonus sur les voix du football, et 35 invités people. Enfin, le lecteur pourra se tester avec pas moins de 80 tests de connaissances (Le saviez-vous ?)... De manière exclusive, ce livre contient aussi tout un dossier économico-financier sur le monde du football : fonctionnement du Mercato et hausse du prix des transferts, salaire des joueurs et leur évolution, clubs de foot cotés en Bourse, etc. La rédaction de ce dossier d'une dizaine de pages a été confiée à l'économiste Jean-David Haddad.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782381272979"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2381272976"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FwqVEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FwqVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=FwqVEAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.be/books?id=FwqVEAAAQBAJ&dq=football&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_belle_%C3%A9quipe_du_football_fran%C3%A7ais.html?hl=&id=FwqVEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_belle_%C3%A9quipe_du_football_fran%C3%A7ais-sample-pdf.acsm?id=FwqVEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FwqVEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La rédaction de ce dossier d&#39;une dizaine de pages a été confiée à l&#39;économiste Jean-David Haddad."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x2uVEAAAQBAJ",
+      "etag": "bvWvGuxt34A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x2uVEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Trois naissances du championnat du monde de football",
+        "authors": [
+          "Pierre Arrighi"
+        ],
+        "publisher": "BoD - Books on Demand",
+        "publishedDate": "2022-10-17",
+        "description": "(Ce livre raconte la genèse du championnat mondial universel du football qui se déroule en trois temps : championnat mondial olympique (1924-1928), championnat mondial des associations (1930-1938), championnat mondial de la FIFA (depuis 1950). Les 76 documents reproduits en annexe permettent de vérifier les thèses exposées.) (Este libro relata la génesis del campeonato mundial universal de fútbol que se desarrolla en tres etapas: campeonato mundial olímpico (1924-1928), campeonato mundial de las asociaciones (1930-1938), campeonato mundial de la FIFA (desde 1950). Los 76 documentos reproducidos en el anexo permiten verificar las tesis presentadas.) ((This book recounts the genesis of the world universal football championship which takes place in three stages: Olympic world championship (1924-1928), world association championship (1930-1938), FIFA world championship (since 1950). The 76 documents reproduced in the appendix make it possible to verify the theses presented.)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782322458912"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2322458910"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 438,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x2uVEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x2uVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=x2uVEAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.be/books?id=x2uVEAAAQBAJ&dq=football&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trois_naissances_du_championnat_du_monde.html?hl=&id=x2uVEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Trois_naissances_du_championnat_du_monde-sample-pdf.acsm?id=x2uVEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x2uVEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "(Ce livre raconte la genèse du championnat mondial universel du football qui se déroule en trois temps : championnat mondial olympique (1924-1928), championnat mondial des associations (1930-1938), championnat mondial de la FIFA (depuis ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Tjd2EAAAQBAJ",
+      "etag": "1vk7B2JYs9Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Tjd2EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Furia - Roman ado - Football - Argentine - Féminisme",
+        "authors": [
+          "Yamile Saied Méndez"
+        ],
+        "publisher": "Slalom",
+        "publishedDate": "2022-10-13",
+        "description": "Une histoire inspirante d'émancipation féminine dans l'Argentine populaire d'aujourd'hui. Redoutable étoile montante du foot féminin, Camila devient \" Furia \" sur le terrain. Mais dans le barrio argentin où elle vit, si le talent permet aux garçons de sortir de la misère, c'est loin d'être le cas pour les filles. Camila doit donc cacher ses ambitions à ses parents. Aussi, lorsque son ancien petit ami, prodige du ballon rond, revient au pays, elle doit faire un choix : le suivre et ne manquer de rien mais dépendre de lui pour tout ; ou devenir footballeuse et se battre pour être repérée par un recruteur. Il est temps pour Furia de bousculer les mœurs et de réaliser ses rêves les plus chers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782375543757"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2375543750"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 275,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Tjd2EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Tjd2EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=Tjd2EAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Tjd2EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Tjd2EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Tjd2EAAAQBAJ&rdid=book-Tjd2EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Furia_Roman_ado_Football_Argentine_F%C3%A9mi-sample-epub.acsm?id=Tjd2EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Furia_Roman_ado_Football_Argentine_F%C3%A9mi-sample-pdf.acsm?id=Tjd2EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Tjd2EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Une histoire inspirante d&#39;émancipation féminine dans l&#39;Argentine populaire d&#39;aujourd&#39;hui."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uQCEEAAAQBAJ",
+      "etag": "FkwGiXp1Iko",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uQCEEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Jim Thorpe",
+        "subtitle": "La Légende amérindienne du football américain",
+        "authors": [
+          "Kevin Lecathelinais",
+          "Georges Chapelle",
+          "Emmanuel Michalak"
+        ],
+        "publisher": "Delcourt",
+        "publishedDate": "2022-10-05",
+        "description": "En 1904, Jim quitte la Première nation Sauk et Fox pour le college de Carlisle, où l'on rééduquait les enfants amérindiens. Sur le terrain de football (américain) comme sur les pistes d'athlétisme, l'entraineur Pop Warner va pousser Jim à donner le meilleur de lui-même, jusqu'aux podiums de Stockholm ou au fameux match contre les cadets de West Point dirigés par Ike Eisenhower.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782413053019"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2413053018"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 106,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "2cb126a2cfa21029_A",
+          "imageBubbleVersion": "2cb126a2cfa21029_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uQCEEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uQCEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=uQCEEAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uQCEEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uQCEEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uQCEEAAAQBAJ&rdid=book-uQCEEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Jim_Thorpe-sample-epub.acsm?id=uQCEEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Jim_Thorpe-sample-pdf.acsm?id=uQCEEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uQCEEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En 1904, Jim quitte la Première nation Sauk et Fox pour le college de Carlisle, où l&#39;on rééduquait les enfants amérindiens."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rgqCEAAAQBAJ",
+      "etag": "BmZKNQPUkf0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rgqCEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Médecine du football",
+        "subtitle": "Pratiques, recommandations, prévention",
+        "authors": [
+          "Emmanuel Orhant"
+        ],
+        "publisher": "Elsevier Health Sciences",
+        "publishedDate": "2022-09-27",
+        "description": "Sport d’équipe le plus populaire en France, le football compte plus de 4,6 millions de pratiquants, 2 millions de licenciés et emploie 7 000 salariés et 400 000 bénévoles. Il présente de nombreux avantages – amélioration des capacités d’endurance, de force au niveau des membres inférieurs et de coordination – et participe à la prévention des maladies cardio-vasculaires, du diabète, de l’obésité, mais aussi de certains cancers, des maladies neuropsychiatriques. Cet ouvrage, coordonné par le directeur médical de la FFF, Emmanuel Orhant, a pour objectif de permettre aux praticiens de connaître les spécificités liées à la prise en charge des footballeurs, amateurs et professionnels, et les principales pathologies qu’ils pourront être amenés à rencontrer. Les cadres institutionnels et réglementaires sont détaillés dans un premier temps puis sont abordées, par zone anatomique, les pathologies liées à la pratique de ce sport, avec un focus sur les pathologies de l’enfant, ainsi que les pathologies traumatiques. L’épidémiologie, la physiopathologie, l’anatomie et les traitements spécifiques sont traités. Enfin, la place du football dans les recommandations sport-santé fait l'objet d’un chapitre complet et détaillé.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782294776045"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2294776046"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 186,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rgqCEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rgqCEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=rgqCEAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rgqCEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rgqCEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 18.34,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 12.84,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=rgqCEAAAQBAJ&rdid=book-rgqCEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 18340000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 12840000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/M%C3%A9decine_du_football-sample-epub.acsm?id=rgqCEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rgqCEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cet ouvrage, coordonné par le directeur médical de la FFF, Emmanuel Orhant, a pour objectif de permettre aux praticiens de connaître les spécificités liées à la prise en charge des footballeurs, amateurs et professionnels, et les ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0diHEAAAQBAJ",
+      "etag": "QlodoXpnYNo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0diHEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Mondial : Football Club Geopolitics - Tome 2",
+        "subtitle": "22 histoires insolites sur la coupe du monde de football - Essais - documents",
+        "authors": [
+          "Kévin Veyssière"
+        ],
+        "publisher": "Max Milo",
+        "publishedDate": "2022-09-27",
+        "description": "Par quels moyens Mussolini est-il parvenu à instrumentaliser la Coupe du monde 1934 au profit de son régime fasciste ? Comment la Corée du Nord, grâce à sa surprenante équipe, s’est-elle révélée aux yeux du monde en 1966 ? Pourquoi la rencontre entre le Koweït et la France en 1982 a-t-elle donné lieu au premier arbitrage diplomatique ? Quelles ont été les coulisses du « match de la paix » de 1998 entre les Etats-Unis et l’Iran ? Comment et pourquoi le Qatar a-t-il obtenu l’organisation du Mondial 2022 ? Dans ce deuxième tome, Kévin Veyssière raconte 22 nouvelles histoires où le ballon rond, dans le contexte particulier des Coupes du monde, s’est retrouvé au cœur des enjeux politiques internationaux, en partant des prémices, en 1900, jusqu’à l’édition qatarie de 2022. L’auteur nous explique comment depuis cent vingt ans, la plus grande compétition sportive a toujours été un outil propice aux jeux d’influence et de pouvoir. Kévin Veyssière, 30 ans, expert et professeur en géopolitique du sport, a créé Football Club Geopolitics, un compte Twitter suivi par plus de 55 000 personnes. Il est l’auteur de Football Club Geopolitics : 22 histoires insolites pour comprendre le monde (Max Milo, 2021).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782315010509"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2315010500"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 215,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0diHEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0diHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=0diHEAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0diHEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0diHEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0diHEAAAQBAJ&rdid=book-0diHEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Mondial_Football_Club_Geopolitics_Tome_2-sample-epub.acsm?id=0diHEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Mondial_Football_Club_Geopolitics_Tome_2-sample-pdf.acsm?id=0diHEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0diHEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dans ce deuxième tome, Kévin Veyssière raconte 22 nouvelles histoires où le ballon rond, dans le contexte particulier des Coupes du monde, s’est retrouvé au cœur des enjeux politiques internationaux, en partant des prémices, en ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XcGizwEACAAJ",
+      "etag": "vFQfXIyJsrA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XcGizwEACAAJ",
+      "volumeInfo": {
+        "title": "101 Curiosités Du Football",
+        "subtitle": "Livre Football",
+        "authors": [
+          "VC Brothers"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2023-01-25",
+        "description": "C'est un livre rempli d'histoires intéressantes et surprenantes sur le monde du football. Vous découvrirez des curiosités qui vous laisseront bouche bée sur certains des événements les plus emblématiques et les joueurs les plus célèbres de l'histoire du football. Vous apprendrez sur les matchs les plus longs jamais joués, les buts les plus impressionnants, les exploits les plus incroyables et les rivalités les plus intenses. Vous découvrirez les secrets des entraîneurs les plus réussis et des joueurs les plus talentueux. Vous trouverez également quelques scandales et controverses qui ont secoué le monde du football au fil des ans. En outre, il est plein d'anecdotes amusantes et curieuses qui vous tiendront collé aux pages. Ce livre est parfait pour les fans de football, les amateurs de sport et les curieux en général. Il vous emmènera dans un voyage passionnant à travers l'histoire du football et vous laissera avec une grande quantité de connaissances et de curiosités à partager avec vos amis et votre famille.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798374964950"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XcGizwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XcGizwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=XcGizwEACAAJ&dq=football&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.be/books?id=XcGizwEACAAJ&dq=football&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/101_Curiosit%C3%A9s_Du_Football.html?hl=&id=XcGizwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XcGizwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "C&#39;est un livre rempli d&#39;histoires intéressantes et surprenantes sur le monde du football."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DtZuEAAAQBAJ",
+      "etag": "+gDqCG8Xk0Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DtZuEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Girls Power",
+        "subtitle": "150 ans de football au féminin",
+        "authors": [
+          "Hubert Artus"
+        ],
+        "publisher": "Calmann-Lévy",
+        "publishedDate": "2022-06-08",
+        "description": "De sa naissance en Angleterre à la fin du XIXe siècle à son véritable développement à partir des années 1960, avec l’épopée des joueuses rémoises et les victoires américaines en Coupe du monde et aux Jeux olympiques, ce livre retrace cent cinquante ans d’histoire du ballon rond au féminin. Intrinsèquement liée aux luttes féministes, cette histoire est faite de hauts et de bas, portée par des joueuses courageuses, qui se sont battues pour pouvoir exercer un sport et assouvir leur passion, souvent en dépit de l’avis des gouvernements, journalistes et fédérations de leur époque, qui auraient préféré voir ces femmes à la maison plutôt que sur un terrain. Dans les années 1990, après bien des batailles, le football féminin connaît enfin l’âge de son expansion sur tous les continents et continue aujourd’hui à gagner en puissance. Hubert Artus fait ainsi un tour du monde inédit et mouvementé de l’état de la discipline, des pays africains au Proche-Orient, de l’Amérique latine à l’Asie. Ce livre est nourri d’interviews de joueuses, de coachs et d’agents en activité, ainsi que de futures jeunes stars françaises, explorant ainsi le football féminin de demain, celui de l’égalité salariale et du soft power.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782702184431"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "270218443X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 291,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DtZuEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DtZuEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=DtZuEAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DtZuEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DtZuEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 8.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DtZuEAAAQBAJ&rdid=book-DtZuEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Girls_Power-sample-epub.acsm?id=DtZuEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Girls_Power-sample-pdf.acsm?id=DtZuEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DtZuEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Hubert Artus fait ainsi un tour du monde inédit et mouvementé de l’état de la discipline, des pays africains au Proche-Orient, de l’Amérique latine à l’Asie."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hiRuEAAAQBAJ",
+      "etag": "xvTm7ddZSp8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hiRuEAAAQBAJ",
+      "volumeInfo": {
+        "title": "La Prépa physique Football : une saison de travail intermittent",
+        "authors": [
+          "Alexandre Dellal",
+          "Javier Mallo"
+        ],
+        "publisher": "Edit.4Trainer",
+        "publishedDate": "2022-05-07",
+        "description": "« Une saison de travail intermittent », le Tome 2 de La prépa physique Football a pour principal objectif de proposer de manière très illustrée et pratique des séances originales, ludiques avec ou sans ballon, à mettre en place facilement sur le terrain tout au long de la saison. Le football est considéré comme une activité mixte nécessitant à la fois des qualités d'endurance, de puissance et de vivacité, mais surtout la capacité à répéter les efforts à haute intensité. Les efforts intermittents sont ainsi régulièrement utilisés dans le football moderne, afin de pouvoir développer tous ces facteurs de la performance et de permettre au joueur d'exprimer au mieux ses qualités techniques et tactiques. À travers plus de 140 séances, ce livre offre une bibliothèque d'exercices intermittents sous toutes leurs formes, avec ou sans ballon, et permet de mettre en place sur le terrain une multitudedes séances d'efforts intermittents durant toute la saison. POURQUOI effectuer un travail intermittent ? QUI doit en faire ? À QUEL ÂGE commencer ? COMMENT doit-on l'appliquer ? Sous quelles formes ? Tous les joueurs doivent-ils faire le même travail et les mêmes exercices ? Doit-on individualiser ou spécifier par poste de jeu ? QUAND ? À quelle période de la saison ? À quelle fréquence ? O٠? Dans quelles conditions de travail (une piste, de l'herbe, un synthétique, en salle) ? COMBIEN de séances, de séries, de répétitions, de durées de récupération ? QUELLES approches et quels types d'exercices mettre en place ?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782492430251"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2492430251"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 331,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hiRuEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hiRuEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=hiRuEAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hiRuEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hiRuEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 17.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hiRuEAAAQBAJ&rdid=book-hiRuEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_Pr%C3%A9pa_physique_Football_une_saison_d-sample-epub.acsm?id=hiRuEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_Pr%C3%A9pa_physique_Football_une_saison_d-sample-pdf.acsm?id=hiRuEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hiRuEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "« Une saison de travail intermittent », le Tome 2 de La prépa physique Football a pour principal objectif de proposer de manière très illustrée et pratique des séances originales, ludiques avec ou sans ballon, à mettre en place ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GVliEAAAQBAJ",
+      "etag": "pd5UbjlY8qY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GVliEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Calcio, je t'aime",
+        "subtitle": "L'âge d'or du football italien",
+        "authors": [
+          "Julien Müller"
+        ],
+        "publisher": "Talent Sport",
+        "publishedDate": "2022-03-16",
+        "description": "Et si l’on se disait vraiment les choses à propos du football italien ? Par exemple en évoquant le grand AC Milan, la virtuosité d’Alessandro Del Piero, la folie napolitaine qui gravita autour de Maradona ainsi que le charisme unique des entraîneurs transalpins. Ou encore l’engouement autour de la rivalité Roma-Lazio, le séisme Ronaldo, nos yeux stupéfaits face à la domination de Michel Platini et la classe éternelle de Roberto Baggio. Un livre, des souvenirs, de l’analyse, un brin d’humour et énormément d’amour pour cette Italie du ballon rond.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782378152475"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2378152477"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GVliEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GVliEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=GVliEAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GVliEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GVliEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 10.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=GVliEAAAQBAJ&rdid=book-GVliEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Calcio_je_t_aime-sample-epub.acsm?id=GVliEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Calcio_je_t_aime-sample-pdf.acsm?id=GVliEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GVliEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Et si l’on se disait vraiment les choses à propos du football italien ?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RNhjEAAAQBAJ",
+      "etag": "kbH3EGbaC0I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RNhjEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Football, Europe et régulations",
+        "authors": [
+          "Guillaume Robin"
+        ],
+        "publisher": "Presses Universitaires du Septentrion",
+        "publishedDate": "2022-03-10",
+        "description": "Dans le prolongement du colloque international qui s’est tenu en mai 2010 à l’Université Paris Descartes sur le thème du football et de l’Europe, une trentaine d’intervenants, issus des universités européennes mais également des représentants du barreau et des institutions (Commission Européenne, UEFA), se sont penchés sur le thème des régulations à l’œuvre dans le football européen. Depuis l’arrêt Bosman, les mesures prises au sein de l’espace communautaire ont entraîné une redéfinition du paysage footballistique dans le contexte d’une économie à la fois mondialisée et soumise à des nouvelles réglementations de l’Europe. Cet ouvrage réunit 20 contributions regroupées en quatre axes : les supporters et leur gestion ; les facteurs de régulation du football européen, les rôles conjugués du droit et de l’économie dans la recomposition du football européen ; enfin, l’art comme outil de réflexion sur le ballon rond et miroir de ces évolutions récentes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782757434932"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2757434934"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 253,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RNhjEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RNhjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=RNhjEAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RNhjEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RNhjEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RNhjEAAAQBAJ&rdid=book-RNhjEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Football_Europe_et_r%C3%A9gulations-sample-epub.acsm?id=RNhjEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Football_Europe_et_r%C3%A9gulations-sample-pdf.acsm?id=RNhjEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RNhjEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dans le prolongement du colloque international qui s’est tenu en mai 2010 à l’Université Paris Descartes sur le thème du football et de l’Europe, une trentaine d’intervenants, issus des universités européennes mais également ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Qj9NEAAAQBAJ",
+      "etag": "wjlLt+8TIco",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Qj9NEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Football - Approche technico-tactique",
+        "subtitle": "De l'analyse du jeu à la conception de l'entraînement",
+        "authors": [
+          "Éric Caballero"
+        ],
+        "publisher": "Amphora",
+        "publishedDate": "2021-11-09",
+        "description": "Éric Caballero a conçu un livre novateur dont l’originalité est de partir de l’analyse du jeu pour aller vers la conception de l’entraînement technico-tactique. Tous les principes de jeu, offensifs et défensifs, sont détaillés en quatre chapitres : → les phases de transition offensives ; → les phases de transition défensives ; → les phases de défense ; → les phases d’attaque. L’auteur propose 80 séances thématiques, développées sous forme de fiches résolument pratiques, pour travailler les différents principes de jeu. L’éducateur bénéficie en tout de 400 séquences variées pour concevoir ses entraînements. Dans chacune de ces fiches, conçues pour une mise en application aisée sur le terrain, sont présentés un échauffement, un jeu spécifique en lien avec le thème de la séance, un exercice technique individuel, des situations de jeu dans un collectif réduit et un jeu d’application sous forme de match. Des schémas explicites permettent une compréhension aisée des différentes consignes. Ce livre s’adresse à tous les éducateurs, des U14 aux seniors, désireux de faire progresser leurs joueurs et de développer des principes de jeu au sein de leurs équipes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782757609279"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2757609270"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 521,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Qj9NEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Qj9NEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=Qj9NEAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Qj9NEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Qj9NEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Qj9NEAAAQBAJ&rdid=book-Qj9NEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Football_Approche_technico_tactique-sample-epub.acsm?id=Qj9NEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Football_Approche_technico_tactique-sample-pdf.acsm?id=Qj9NEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Qj9NEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Éric Caballero a conçu un livre novateur dont l’originalité est de partir de l’analyse du jeu pour aller vers la conception de l’entraînement technico-tactique."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jT9NEAAAQBAJ",
+      "etag": "pCcAA5n1Kvk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jT9NEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Football - Préparation physique spécifique",
+        "subtitle": "De l'analyse des besoins à la conception de l'entraînement",
+        "authors": [
+          "Éric Caballero"
+        ],
+        "publisher": "Amphora",
+        "publishedDate": "2021-11-09",
+        "description": "Éric Caballero a conçu un livre novateur dont l’originalité est de partir de l’analyse des besoins pour aller vers la conception de l’entraînement physique. Sa méthode allie l’utilisation des trois grands principes de préparation athlétique : le dissocié (sans ballon), l’associé (sans, puis avec ballon) et l’intégré (dans le jeu). Ce livre permet de développer efficacement les cinq grandes qualités physiques du footballeur : l’endurance, la vitesse, la force, la coordination et la souplesse. L’auteur propose une partie théorique et une partie pratique avec 316 exercices et jeux accompagnés de consignes claires et illustrés de schémas explicites pour une mise en application aisée sur le terrain. Cet ouvrage s’adresse aussi bien : → aux éducateurs de petites catégories qui pourront ainsi adapter leurs séances au potentiel et aux caractéristiques des jeunes joueurs ; → aux entraîneurs plus confirmés en charge de jeunes ou de seniors, qui souhaitent varier leurs séances et optimiser les performances de leurs joueurs.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782757609286"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2757609289"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 487,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jT9NEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jT9NEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=jT9NEAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jT9NEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jT9NEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jT9NEAAAQBAJ&rdid=book-jT9NEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Football_Pr%C3%A9paration_physique_sp%C3%A9cifiq-sample-epub.acsm?id=jT9NEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Football_Pr%C3%A9paration_physique_sp%C3%A9cifiq-sample-pdf.acsm?id=jT9NEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jT9NEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Éric Caballero a conçu un livre novateur dont l’originalité est de partir de l’analyse des besoins pour aller vers la conception de l’entraînement physique."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CYdDEAAAQBAJ",
+      "etag": "/z7tIKhnuOc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CYdDEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Jouer Dantzig sur un match de football",
+        "authors": [
+          "Pierre Drieu la Rochelle"
+        ],
+        "publisher": "Editions Gallimard",
+        "publishedDate": "2021-10-14T00:00:00+02:00",
+        "description": "Ce volume met en lumière l’apprentissage intellectuel du jeune Drieu, puis retrace en filigrane son parcours et ses fonctions jusqu’à sa mort. Les carnets de l’étudiant, à Sciences Po et en voyage en Angleterre, apportent un éclairage nouveau sur Pierre Drieu la Rochelle : d’une étonnante maturité à 16 ans, réfléchissant à l’art, la littérature, la politique et la civilisation européenne. Il semble avoir déjà tout lu. Drieu évoque entre autres Barrès, Rousseau, Nietzsche, Disraeli, Schopenhauer, Amiel. Il médite dans des autoportraits à la troisième personne (« Il se rêvait nouveau B. Constant ») et, fasciné par les hommes d’action, se confie sur son caractère jugé trop timoré (il se surnomme « Cœur-de-lièvre »). Puis ce sont les carnets de caserne et de guerre aux Dardanelles, avec ses missions de sergent (défense d’un tirailleur sénégalais) mêlées aux réflexions sur la littérature. Plus tard, dans un carnet d’Argentine (1932), l’on suit ses déplacements et sa découverte des paysages, puis un carnet « Gilles » (38-39) nous plonge dans les coulisses de son grand roman. Enfin, les carnets de la guerre de 40 nous renseignent sur ses préoccupations quotidiennes (la gestion de La NRF, des noms de prisonniers à libérer, ses rendez-vous, etc.).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782072930751"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2072930758"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 185,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CYdDEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CYdDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=CYdDEAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=CYdDEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CYdDEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=CYdDEAAAQBAJ&rdid=book-CYdDEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Jouer_Dantzig_sur_un_match_de_football-sample-epub.acsm?id=CYdDEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Jouer_Dantzig_sur_un_match_de_football-sample-pdf.acsm?id=CYdDEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CYdDEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Les carnets de l’étudiant, à Sciences Po et en voyage en Angleterre, apportent un éclairage nouveau sur Pierre Drieu la Rochelle : d’une étonnante maturité à 16 ans, réfléchissant à l’art, la littérature, la politique et la ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tX9EEAAAQBAJ",
+      "etag": "tkv/sCe5gak",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tX9EEAAAQBAJ",
+      "volumeInfo": {
+        "title": "La tierce propriété des droits économiques dans le football professionnel (\" TPO \")",
+        "subtitle": "Aspects contractuels et réglementaires",
+        "authors": [
+          "Shervine Nafissi"
+        ],
+        "publisher": "Stämpfli Verlag",
+        "publishedDate": "2021-09-15",
+        "description": "Le football professionnel est marqué par une période appelée le mercato durant laquelle on peut observer le phénomène d'achat et de vente de joueurs par les clubs contre le paiement de sommes d'argent. Ces indemnités de transfert permettent de rémunérer différentes parties, notamment les clubs et les agents. Au début des années 2000, des tierces parties, principalement sous la forme de sociétés d'investissement, sont apparues sur le marché des transferts. Elles ont joué le rôle de banques, en prêtant de l'argent aux clubs en échange d'un pourcentage sur la valeur économique d'un ou de plusieurs joueurs. Cette pratique, appelée \" TPO \", est l'objet de la présente étude. Elle comporte une analyse juridique de la pratique sous l'angle du droit suisse et de la réglementation sportive. L'étude passe en revue la construction contractuelle de cette pratique, notamment les clauses qui composent le contrat entre la tierce partie et le club, la validité dudit contrat en droit suisse ou encore le statut du joueur vis-à-vis de ces contrats. L'étude se concentre également sur l'approche réglementaire des fédérations sportives à l'égard des TPO. Nous traitons de l'efficacité actuelle de l'interdiction des TPO et de sa légalité, mais aussi de l'opportunité d'autoriser la pratique en la réglementant. Nos développements tendent à montrer la complexité à mettre en œuvre chacune de ces solutions.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783727229046"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3727229047"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 714,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tX9EEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tX9EEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=tX9EEAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tX9EEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tX9EEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 162.4,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 162.4,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=tX9EEAAAQBAJ&rdid=book-tX9EEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 162400000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 162400000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_tierce_propri%C3%A9t%C3%A9_des_droits_%C3%A9conom-sample-pdf.acsm?id=tX9EEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tX9EEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Le football professionnel est marqué par une période appelée le mercato durant laquelle on peut observer le phénomène d&#39;achat et de vente de joueurs par les clubs contre le paiement de sommes d&#39;argent."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KWpCEAAAQBAJ",
+      "etag": "M5FfKc7QU+Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KWpCEAAAQBAJ",
+      "volumeInfo": {
+        "title": "L'état et l'équipe nationale de football au Cameroun",
+        "subtitle": "La lex lions indomptables de 1972 à 2014",
+        "authors": [
+          "Claude Bekombo Jabea"
+        ],
+        "publisher": "Editions L'Harmattan",
+        "publishedDate": "2021-09-10",
+        "description": "Au Cameroun, le football est considéré comme le sport « roi », et c'est à juste titre, compte tenu des émotions qu'il suscite. Comme dans d'autres pays du monde, le politique s'en sert quelquefois à dessein manipulatoire. Dans un contexte relativement en crise comme celui que traverse depuis quelques années cette équipe, l'auteur évalue le cadre juridique des Lions indomptables dans le but de percevoir sa marge de manoeuvre dans les succès ou les échecs. Ce livre questionne également l'encadrement administratif, financier et technique, s'interroge sur la compétitivité de l'équipe, sur l'adaptation à l'environnement sociologique et évalue l'articulation et l'interaction du cadre juridique avec les règlements de la FIFA ou de la CAF.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782140189203"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2140189205"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 365,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KWpCEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KWpCEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=KWpCEAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KWpCEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KWpCEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 28.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 28.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=KWpCEAAAQBAJ&rdid=book-KWpCEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 28990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 28990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/L_%C3%A9tat_et_l_%C3%A9quipe_nationale_de_footba-sample-epub.acsm?id=KWpCEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/L_%C3%A9tat_et_l_%C3%A9quipe_nationale_de_footba-sample-pdf.acsm?id=KWpCEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KWpCEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Au Cameroun, le football est considéré comme le sport « roi », et c&#39;est à juste titre, compte tenu des émotions qu&#39;il suscite."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1vc3EAAAQBAJ",
+      "etag": "P7Hm8yV6BBI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1vc3EAAAQBAJ",
+      "volumeInfo": {
+        "title": "La psychologie du football",
+        "authors": [
+          "Guy Missoum"
+        ],
+        "publisher": "VIGOT",
+        "publishedDate": "2021-07-13",
+        "description": "Cet ouvrage s’adresse à tous ceux qui s’investissent dans le football aussi bien amateur que professionnel, qu’ils soient joueurs, formateurs ou entraîneurs, mais aussi aux passionnés du football, qu’ils soient sportifs du dimanche ou supporters. Aux premiers, il donnera les outils du progrès, aux seconds, les clés d’une meilleure compréhension du football.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782711452149"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "271145214X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 348,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1vc3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1vc3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=1vc3EAAAQBAJ&printsec=frontcover&dq=football&hl=&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1vc3EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1vc3EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 19.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 19.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1vc3EAAAQBAJ&rdid=book-1vc3EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 19990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 19990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_psychologie_du_football-sample-epub.acsm?id=1vc3EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_psychologie_du_football-sample-pdf.acsm?id=1vc3EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1vc3EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cet ouvrage s’adresse à tous ceux qui s’investissent dans le football aussi bien amateur que professionnel, qu’ils soient joueurs, formateurs ou entraîneurs, mais aussi aux passionnés du football, qu’ils soient sportifs du ..."
+      }
+    }
+  ]
+}

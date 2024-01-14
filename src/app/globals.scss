@@ -212,3 +212,105 @@ body {
       display: none;
       }
 }
+.subtitle{
+    margin: 40px 0;
+    position: relative;
+    font-size: 30px;
+    &::after{
+        @include round();
+        content: "";
+        position: absolute;
+        top: -27%;
+        right: 79%;
+        z-index: -5;
+      }
+}
+
+#mostRecent{
+    .row{
+        display: grid;
+        width: 100%;
+        grid-template-columns: repeat(3,1fr);
+        @media (max-width: 790px) {
+            grid-template-columns: repeat(2,1fr);
+           grid-gap: 40px;
+           place-items: center;
+         }
+        @media (max-width: 492px) {
+            grid-template-columns: repeat(1,1fr);
+         }
+    }
+}
+.bookview{
+    text-decoration: none;
+    color: $black;
+    text-decoration: none;
+    width: 85%;
+    // margin: 0 auto;
+    @include flexCenterColumn();
+    align-items: start;
+    line-height: 1.5rem;
+p{
+    margin: 2px 0;
+}
+.picBookView{
+    position: relative;
+    padding: 10px 0;
+    margin: 0 auto;
+    &::before{
+        content: '';
+        width: 100px;
+        height: 150px;
+        background-color: $beige;
+        position: absolute;
+        top: -5%;
+        right: 47%;
+        z-index: -2;
+    }
+}
+}
+#presentation{
+    #subPresentation{
+        margin-top: 100px ;
+    }
+    .block-flex{
+        display: flex;
+        width: 100%;
+        flex-wrap: wrap;
+       height: calc(100vh - 450px);
+       justify-content: center;
+       flex-direction: column;
+        .left{
+            width: 70%;
+            .jumbotronPres{
+                p{
+                    width: 75%;
+                    line-height: 2rem;
+                    margin: 20px 0;
+                }
+                .link{
+                    margin: 50px 0 ;
+                    a{
+                        text-decoration: none;
+                        color: $black;
+                        font-weight: 500;
+                        padding: 20px 40px;
+                        background-color: $beige;
+                    }
+                }
+            }
+        }
+        .right{
+            width: 30%;
+            .boxPic{
+                width: 400px;
+                height: 400px;
+                border-radius: 100%;
+                background-color: $beige;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+        }
+    }
+}

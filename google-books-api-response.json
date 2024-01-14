@@ -1,0 +1,1784 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 508,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "RBTlEAAAQBAJ",
+      "etag": "5k/+z3C8XX4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RBTlEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Les Divisions",
+        "authors": [
+          "Éric Halphen"
+        ],
+        "publisher": "Buchet-Chastel",
+        "publishedDate": "2024-01-11T00:00:00+01:00",
+        "description": "Mehdi Azzam a grandi à Vitry. Elevé durement par son père, il se réfugie dans le sport. Très vite repéré, il devient un bon joueur de foot. Appelé en équipe de France, sa cote flambe puis se tasse brusquement pendant son séjour en Angleterre. A l'étranger, Mehdi devient un joueur sans talent. Rétrogradé, il se retrouve à Reims. Le footballeur vit là avec sa femme et ses filles - lorsqu'un journaliste lui annonce un article à paraître dans la presse nationale du lendemain : la femme de Mehdi y dénonce les violences conjugales qu'elle subit. Les Divisions raconte la mécanique qui, dès lors, va s'enclencher. Les différents acteurs - avocat, journaliste, etc - se contentent de jouer leur partition et de tirer le meilleur parti de la situation. Car aujourd'hui la vérité n'a plus d'importance. Les convictions ont remplacé les faits, les dénonciations les démonstrations. Les Divisions, version moderne de la fable, est le deuxième roman d'Eric Halphen chez Buchet/Chastel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782283038536"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2283038537"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 327,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RBTlEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RBTlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=RBTlEAAAQBAJ&printsec=frontcover&dq=les+coulisses+du+football&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RBTlEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RBTlEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 16.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 16.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RBTlEAAAQBAJ&rdid=book-RBTlEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Les_Divisions-sample-epub.acsm?id=RBTlEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Les_Divisions-sample-pdf.acsm?id=RBTlEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RBTlEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Car aujourd&#39;hui la vérité n&#39;a plus d&#39;importance. Les convictions ont remplacé les faits, les dénonciations les démonstrations. Les Divisions, version moderne de la fable, est le deuxième roman d&#39;Eric Halphen chez Buchet/Chastel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8STcEAAAQBAJ",
+      "etag": "ETbQ8F+bBq8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8STcEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Main basse sur l'argent du foot français",
+        "authors": [
+          "Christophe Bouchet"
+        ],
+        "publisher": "Robert Laffont",
+        "publishedDate": "2023-10-12",
+        "description": "C'est le coup du siècle... En mai 2022, un fonds étranger est devenu actionnaire de la Ligue. En cadeau de bienvenue, il aligne 1,5 milliard d'euros. Dans la foulée, le président de la Ligue – l'acteur présumé de ce deal –, Vincent Labrune, perçoit un bonus de 3 millions d'euros, et le triplement de son salaire. La Ligue, moribonde quelques mois plus tôt, mène grand train. Augmentations à gogo, promesses de bonus vertigineux, un siège acheté et rénové à prix d'or... Ruinés par le dossier Mediapro et le Covid, les présidents de clubs ont sacrifié les intérêts de leurs clubs au profit de la finance pour une durée illimitée. Ces indices persuadent l'auteur de mener l'enquête: comment certains clubs ont-ils pu accepter ce contrat? Qui a choisi ce fonds? Qui a mis la pression sur les députés pour voter dans la précipitation l'obligatoire changement de loi autorisant ce type d'affaire? Les clubs vont le payer cher et même, pour certains, très cher. Dans ce cas, pourquoi les pouvoirs publics ont-ils laissé faire? Mensonges, coups tordus, paris fous...: cette enquête haletante nous emmène dans les coulisses de la Ligue et des clubs, des chaînes de télévision et du pouvoir, et met au jour le péril imminent auquel s'expose le foot français.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782221272800"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2221272803"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8STcEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8STcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=8STcEAAAQBAJ&printsec=frontcover&dq=les+coulisses+du+football&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8STcEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8STcEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=8STcEAAAQBAJ&rdid=book-8STcEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Main_basse_sur_l_argent_du_foot_fran%C3%A7ai-sample-epub.acsm?id=8STcEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Main_basse_sur_l_argent_du_foot_fran%C3%A7ai-sample-pdf.acsm?id=8STcEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8STcEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "C&#39;est le coup du siècle."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eTMC0AEACAAJ",
+      "etag": "01kzomO+D+Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eTMC0AEACAAJ",
+      "volumeInfo": {
+        "title": "Sculptés pour l'excellence",
+        "subtitle": "Les mannequins sportifs masculins en images\"",
+        "authors": [
+          "Stephanie Leurquin",
+          "Julia Leurquin"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2023-06-04",
+        "description": "\"Chaque corps raconte une histoire. Dans les pages qui suivent, nous plongeons dans l'univers des mannequins sportifs masculins, des hommes dont les muscles sculptés et les mouvements gracieux incarnent la puissance, la discipline et l'élégance. Ces athlètes, véritables oeuvres d'art en mouvement, nous inspirent et nous fascinent par leur détermination à atteindre l'excellence. Ce livre est une célébration de la beauté athlétique masculine. À travers des portraits captivants et des images saisissantes, nous explorons les différents sports qui ont forgé ces corps d'élite. Des joueurs de football aux nageurs, des coureurs de marathon aux haltérophiles, nous découvrons la variété des disciplines qui ont façonné ces mannequins sportifs. Au-delà de leur apparence physique, nous plongeons également dans les histoires personnelles de ces hommes exceptionnels. Leurs parcours, leurs défis, leurs succès et leurs sacrifices se dévoilent à travers leurs témoignages inspirants. Nous découvrons les moments de doute, les moments de gloire, les heures passées à s'entraîner, à se surpasser, à repousser les limites du corps humain. Ce livre est un hommage à la passion, à la détermination et à l'esprit indomptable de ces mannequins sportifs masculins. Ils incarnent la fusion parfaite entre la grâce et la force, entre l'esthétique et la performance. Que vous soyez vous-même un amateur de sport, un admirateur de la beauté physique ou simplement curieux de découvrir les coulisses de ces corps sculptés, ces pages vous invitent à un voyage captivant au coeur de l'athlétisme masculin. Préparez-vous à être inspiré, émerveillé et à vous émerger dans l'univers fascinant des mannequins sportifs masculins. Leurs histoires, leurs exploits et leur présence vous rappelleront la grandeur du corps humain et la capacité infinie de l'esprit à atteindre des sommets. Bienvenue dans le monde de la beauté athlétique masculine.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798397192859"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eTMC0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eTMC0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=eTMC0AEACAAJ&dq=les+coulisses+du+football&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.be/books?id=eTMC0AEACAAJ&dq=les+coulisses+du+football&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sculpt%C3%A9s_pour_l_excellence.html?hl=&id=eTMC0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eTMC0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Chaque corps raconte une histoire."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8STcEAAAQBAJ",
+      "etag": "Op0f8EG36DY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8STcEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Main basse sur l'argent du foot français",
+        "authors": [
+          "Christophe Bouchet"
+        ],
+        "publisher": "Robert Laffont",
+        "publishedDate": "2023-10-12",
+        "description": "C'est le coup du siècle... En mai 2022, un fonds étranger est devenu actionnaire de la Ligue. En cadeau de bienvenue, il aligne 1,5 milliard d'euros. Dans la foulée, le président de la Ligue – l'acteur présumé de ce deal –, Vincent Labrune, perçoit un bonus de 3 millions d'euros, et le triplement de son salaire. La Ligue, moribonde quelques mois plus tôt, mène grand train. Augmentations à gogo, promesses de bonus vertigineux, un siège acheté et rénové à prix d'or... Ruinés par le dossier Mediapro et le Covid, les présidents de clubs ont sacrifié les intérêts de leurs clubs au profit de la finance pour une durée illimitée. Ces indices persuadent l'auteur de mener l'enquête: comment certains clubs ont-ils pu accepter ce contrat? Qui a choisi ce fonds? Qui a mis la pression sur les députés pour voter dans la précipitation l'obligatoire changement de loi autorisant ce type d'affaire? Les clubs vont le payer cher et même, pour certains, très cher. Dans ce cas, pourquoi les pouvoirs publics ont-ils laissé faire? Mensonges, coups tordus, paris fous...: cette enquête haletante nous emmène dans les coulisses de la Ligue et des clubs, des chaînes de télévision et du pouvoir, et met au jour le péril imminent auquel s'expose le foot français.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782221272800"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2221272803"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8STcEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8STcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=8STcEAAAQBAJ&pg=PT8&dq=les+coulisses+du+football&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8STcEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8STcEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=8STcEAAAQBAJ&rdid=book-8STcEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Main_basse_sur_l_argent_du_foot_fran%C3%A7ai-sample-epub.acsm?id=8STcEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Main_basse_sur_l_argent_du_foot_fran%C3%A7ai-sample-pdf.acsm?id=8STcEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8STcEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Christophe Bouchet. Allez , je vous emmène dans <b>les coulisses du football</b> . C&#39;est un peu le grand huit , et vous n&#39;êtes pas au bout de vos surprises ! Cette fois , oui , il semble bien que les financiers aient fait main basse sur l&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8STcEAAAQBAJ",
+      "etag": "DUBSRGFTc/w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8STcEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Main basse sur l'argent du foot français",
+        "authors": [
+          "Christophe Bouchet"
+        ],
+        "publisher": "Robert Laffont",
+        "publishedDate": "2023-10-12",
+        "description": "C'est le coup du siècle... En mai 2022, un fonds étranger est devenu actionnaire de la Ligue. En cadeau de bienvenue, il aligne 1,5 milliard d'euros. Dans la foulée, le président de la Ligue – l'acteur présumé de ce deal –, Vincent Labrune, perçoit un bonus de 3 millions d'euros, et le triplement de son salaire. La Ligue, moribonde quelques mois plus tôt, mène grand train. Augmentations à gogo, promesses de bonus vertigineux, un siège acheté et rénové à prix d'or... Ruinés par le dossier Mediapro et le Covid, les présidents de clubs ont sacrifié les intérêts de leurs clubs au profit de la finance pour une durée illimitée. Ces indices persuadent l'auteur de mener l'enquête: comment certains clubs ont-ils pu accepter ce contrat? Qui a choisi ce fonds? Qui a mis la pression sur les députés pour voter dans la précipitation l'obligatoire changement de loi autorisant ce type d'affaire? Les clubs vont le payer cher et même, pour certains, très cher. Dans ce cas, pourquoi les pouvoirs publics ont-ils laissé faire? Mensonges, coups tordus, paris fous...: cette enquête haletante nous emmène dans les coulisses de la Ligue et des clubs, des chaînes de télévision et du pouvoir, et met au jour le péril imminent auquel s'expose le foot français.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782221272800"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2221272803"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8STcEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8STcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=8STcEAAAQBAJ&pg=PT7&dq=les+coulisses+du+football&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8STcEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8STcEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=8STcEAAAQBAJ&rdid=book-8STcEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Main_basse_sur_l_argent_du_foot_fran%C3%A7ai-sample-epub.acsm?id=8STcEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Main_basse_sur_l_argent_du_foot_fran%C3%A7ai-sample-pdf.acsm?id=8STcEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8STcEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... députés et sénateurs n&#39;ont - ils rien vu au moment de changer la loi ? Qui a choisi CVC Capital Partners , le fonds financier qui joue les sauveurs , et à quel prix ? Allez , je vous emmène dans <b>les coulisses du football</b> INTRODUCTION ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8STcEAAAQBAJ",
+      "etag": "ev4Vdtl0A44",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8STcEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Main basse sur l'argent du foot français",
+        "authors": [
+          "Christophe Bouchet"
+        ],
+        "publisher": "Robert Laffont",
+        "publishedDate": "2023-10-12",
+        "description": "C'est le coup du siècle... En mai 2022, un fonds étranger est devenu actionnaire de la Ligue. En cadeau de bienvenue, il aligne 1,5 milliard d'euros. Dans la foulée, le président de la Ligue – l'acteur présumé de ce deal –, Vincent Labrune, perçoit un bonus de 3 millions d'euros, et le triplement de son salaire. La Ligue, moribonde quelques mois plus tôt, mène grand train. Augmentations à gogo, promesses de bonus vertigineux, un siège acheté et rénové à prix d'or... Ruinés par le dossier Mediapro et le Covid, les présidents de clubs ont sacrifié les intérêts de leurs clubs au profit de la finance pour une durée illimitée. Ces indices persuadent l'auteur de mener l'enquête: comment certains clubs ont-ils pu accepter ce contrat? Qui a choisi ce fonds? Qui a mis la pression sur les députés pour voter dans la précipitation l'obligatoire changement de loi autorisant ce type d'affaire? Les clubs vont le payer cher et même, pour certains, très cher. Dans ce cas, pourquoi les pouvoirs publics ont-ils laissé faire? Mensonges, coups tordus, paris fous...: cette enquête haletante nous emmène dans les coulisses de la Ligue et des clubs, des chaînes de télévision et du pouvoir, et met au jour le péril imminent auquel s'expose le foot français.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782221272800"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2221272803"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8STcEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8STcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=8STcEAAAQBAJ&pg=PA1&dq=les+coulisses+du+football&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8STcEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8STcEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=8STcEAAAQBAJ&rdid=book-8STcEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Main_basse_sur_l_argent_du_foot_fran%C3%A7ai-sample-epub.acsm?id=8STcEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Main_basse_sur_l_argent_du_foot_fran%C3%A7ai-sample-pdf.acsm?id=8STcEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8STcEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Christophe Bouchet. Christophe Bouchet MAIN BASSE SUR L&#39;ARGENT DU <b>FOOT</b> FRANCAIS Dans <b>les coulisses</b> de la finance , de l&#39;Élysée , de la Ligue ...... ENQUÊTE Robert Laffont CHRISTOPHE BOUCHET MAIN BASSE SUR L&#39;ARGENT DU <b>FOOT</b> FRANÇAIS Robert."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F7_FEAAAQBAJ",
+      "etag": "jLTg/rqhJHE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F7_FEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Une histoire sportive de la guerre froide",
+        "authors": [
+          "Sylvain Dufraisse"
+        ],
+        "publisher": "Nouveau Monde Editions",
+        "publishedDate": "2023-05-31",
+        "description": "Pendant presque cinquante ans, la guerre froide a fait du sport international un théâtre spectaculaire de la rivalité Est-Ouest. Sur ce nouveau champ de bataille de la guerre d’influence entre les blocs, victoires et médailles étaient synonymes de rayonnement, mais aussi de déstabilisation de l’adversaire. Tandis que les États clamaient leur attachement aux valeurs universelles du sport, gouvernements et diplomates, parfois même services secrets, s’affairaient en coulisses pour exploiter l’image des athlètes. À Moscou, on craignait de voir « l’impérialisme » manipuler le monde du sport. À Washington, on dénonçait l’amateurisme de façade des athlètes « rouges ». Scandales, coups tordus, opérations secrètes : dans cette histoire, le fair-play fut très souvent laissé sur la touche. On n’hésitait pas à accuser le camp d’en face de tricherie. Quand les Soviétiques dénonçaient la ségrégation des athlètes afro-américains, les États-Unis favorisaient des défections de champions de l’Est. L’ouvrage revient sur les vies de sportifs impliqués, souvent malgré eux, dans les rivalités de la guerre froide : Emil Zátopek, Wilma Rudolph, Tamara Press, Abebe Bikila, Bobby Fischer, Nadia Comaneci, Mohamed Ali, ou encore Martina Navratilova. Il raconte les grandes compétitions qui ont jalonné ces cinq décennies, en premier lieu les Jeux olympiques, mais aussi les rencontres et tournois internationaux en football, en athlétisme, en basket-ball et dans bien d’autres disciplines. Une histoire de performance et de compétition, d’affrontements aux allures de guerre psychologique devant les masses ou souterrains. Un récit surprenant et insolite d’un conflit qui a durablement marqué les sociétés partout dans le monde. Sylvain Dufraisse est agrégé d’histoire et docteur en histoire contemporaine de l’université Paris 1 Panthéon-Sorbonne. Il est actuellement maître de conférences à Nantes Université.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782380943900"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2380943907"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 351,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=F7_FEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=F7_FEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=F7_FEAAAQBAJ&dq=les+coulisses+du+football&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.be/books?id=F7_FEAAAQBAJ&dq=les+coulisses+du+football&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Une_histoire_sportive_de_la_guerre_froid.html?hl=&id=F7_FEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F7_FEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Un récit surprenant et insolite d’un conflit qui a durablement marqué les sociétés partout dans le monde. Sylvain Dufraisse est agrégé d’histoire et docteur en histoire contemporaine de l’université Paris 1 Panthéon-Sorbonne."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8STcEAAAQBAJ",
+      "etag": "oVk7z1rzPP4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8STcEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Main basse sur l'argent du foot français",
+        "authors": [
+          "Christophe Bouchet"
+        ],
+        "publisher": "Robert Laffont",
+        "publishedDate": "2023-10-12",
+        "description": "C'est le coup du siècle... En mai 2022, un fonds étranger est devenu actionnaire de la Ligue. En cadeau de bienvenue, il aligne 1,5 milliard d'euros. Dans la foulée, le président de la Ligue – l'acteur présumé de ce deal –, Vincent Labrune, perçoit un bonus de 3 millions d'euros, et le triplement de son salaire. La Ligue, moribonde quelques mois plus tôt, mène grand train. Augmentations à gogo, promesses de bonus vertigineux, un siège acheté et rénové à prix d'or... Ruinés par le dossier Mediapro et le Covid, les présidents de clubs ont sacrifié les intérêts de leurs clubs au profit de la finance pour une durée illimitée. Ces indices persuadent l'auteur de mener l'enquête: comment certains clubs ont-ils pu accepter ce contrat? Qui a choisi ce fonds? Qui a mis la pression sur les députés pour voter dans la précipitation l'obligatoire changement de loi autorisant ce type d'affaire? Les clubs vont le payer cher et même, pour certains, très cher. Dans ce cas, pourquoi les pouvoirs publics ont-ils laissé faire? Mensonges, coups tordus, paris fous...: cette enquête haletante nous emmène dans les coulisses de la Ligue et des clubs, des chaînes de télévision et du pouvoir, et met au jour le péril imminent auquel s'expose le foot français.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782221272800"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2221272803"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8STcEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8STcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=8STcEAAAQBAJ&pg=PT117&dq=les+coulisses+du+football&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8STcEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8STcEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=8STcEAAAQBAJ&rdid=book-8STcEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Main_basse_sur_l_argent_du_foot_fran%C3%A7ai-sample-epub.acsm?id=8STcEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Main_basse_sur_l_argent_du_foot_fran%C3%A7ai-sample-pdf.acsm?id=8STcEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8STcEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Christophe Bouchet. opportunités et permettre au <b>football</b> français de se réformer et de préparer le futur dans les ... <b>coulisses</b> pour avoir été directeur de cabinet d&#39;un précédent ministre des Sports ( Thierry Braillard ) . En deuxième&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uUMJ0AEACAAJ",
+      "etag": "Knf7QIdRIXc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uUMJ0AEACAAJ",
+      "volumeInfo": {
+        "title": "Une histoire sportive de la guerre froide",
+        "authors": [
+          "Sylvain Dufraisse"
+        ],
+        "publishedDate": "2023-05-31",
+        "description": "Pendant presque cinquante ans, la guerre froide a fait du sport international un théâtre spectaculaire de la rivalité Est-Ouest. Sur ce nouveau champ de bataille de la guerre d'influence entre les blocs, victoires et médailles étaient synonymes de rayonnement, mais aussi de déstabilisation de l'adversaire. Tandis que les Etats clamaient leur attachement aux valeurs universelles du sport, gouvernements et diplomates, parfois même services secrets, s'affairaient en coulisses pour exploiter l'image des athlètes. A Moscou, on craignait de voir \" l'impérialisme \" manipuler le monde du sport. A Washington, on dénonçait l'amateurisme de façade des athlètes \" rouges \" . Scandales, coups tordus, opérations secrètes : dans cette histoire, le fair-play fut très souvent laissé sur la touche. On n'hésitait pas à accuser le camp d'en face de tricherie. Quand les Soviétiques dénonçaient la ségrégation des athlètes afro-américains, les Etats-Unis favorisaient des défections de champions de l'Est. L'ouvrage revient sur les vies de sportifs impliqués, souvent malgré eux, dans les rivalités de la guerre froide : Emil Zátopek, Wilma Rudolph, Tamara Press, Abebe Bikila, Bobby Fischer, Nadia Comaneci, Mohamed Ali, ou encore Martina Navratilova. Il raconte les grandes compétitions qui ont jalonné ces cinq décennies, en premier lieu les Jeux olympiques, mais aussi les rencontres et tournois internationaux en football, en athlétisme, en basket-ball et dans bien d'autres disciplines. Une histoire de performance et de compétition, d'affrontements aux allures de guerre psychologique devant les masses ou souterrains. Un récit surprenant et insolite d'un conflit qui a durablement marqué les sociétés partout dans le monde. [payot.ch]",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2380943893"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782380943894"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=uUMJ0AEACAAJ&dq=les+coulisses+du+football&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.be/books?id=uUMJ0AEACAAJ&dq=les+coulisses+du+football&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Une_histoire_sportive_de_la_guerre_froid.html?hl=&id=uUMJ0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uUMJ0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dès le début de la guerre froide, l’évolution des rapports géopolitiques entre l’Est et l’Ouest a favorisé l’instrumentalisation du phénomène sportif."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q_yZEAAAQBAJ",
+      "etag": "p5kGAMDg9+0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q_yZEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Incroyables histoires du foot",
+        "authors": [
+          "Darren Tulett"
+        ],
+        "publisher": "Larousse",
+        "publishedDate": "2022-10-19",
+        "description": "Laissez-vous conter les histoires les plus insolites de la Coupe du monde ! Saviez-vous qu’en 1966 le trophée de la Coupe du monde avait été volé avant d’être retrouvé, abandonné près d’une voiture, par Pickles le chien ? Ou qu’en 1982, alors que la France affrontait le Koweït, le frère de l’émir était descendu sur le terrain pour faire annuler un but en négociant avec l’arbitre ? Avec son humour on ne peut plus british, Darren Tulett vous emmène dans les coulisses incroyables de l’histoire du Mondial. À travers quatre rubriques (anecdotes, brèves, chiffres et portraits de légendes), découvrez l’envers du décor de la plus grande compétition de football. Zinédine Zidane, Diego Maradona, Pelé, Bobby Moore, retrouvez ceux qui ont marqué ce tournoi mythique dans plus de 60 histoires inconnues ou presque. De quoi épater tous vos proches !",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782036028937"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2036028934"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Family & Relationships"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Q_yZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Q_yZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=Q_yZEAAAQBAJ&dq=les+coulisses+du+football&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.be/books?id=Q_yZEAAAQBAJ&dq=les+coulisses+du+football&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Incroyables_histoires_du_foot.html?hl=&id=Q_yZEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q_yZEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Avec son humour on ne peut plus british, Darren Tulett vous emmène dans les coulisses incroyables de l’histoire du Mondial. À travers quatre rubriques (anecdotes, brèves, chiffres et portraits de légendes), découvrez l’envers du ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0diHEAAAQBAJ",
+      "etag": "r6UW7/X+aRg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0diHEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Mondial : Football Club Geopolitics - Tome 2",
+        "subtitle": "22 histoires insolites sur la coupe du monde de football - Essais - documents",
+        "authors": [
+          "Kévin Veyssière"
+        ],
+        "publisher": "Max Milo",
+        "publishedDate": "2022-09-27",
+        "description": "Par quels moyens Mussolini est-il parvenu à instrumentaliser la Coupe du monde 1934 au profit de son régime fasciste ? Comment la Corée du Nord, grâce à sa surprenante équipe, s’est-elle révélée aux yeux du monde en 1966 ? Pourquoi la rencontre entre le Koweït et la France en 1982 a-t-elle donné lieu au premier arbitrage diplomatique ? Quelles ont été les coulisses du « match de la paix » de 1998 entre les Etats-Unis et l’Iran ? Comment et pourquoi le Qatar a-t-il obtenu l’organisation du Mondial 2022 ? Dans ce deuxième tome, Kévin Veyssière raconte 22 nouvelles histoires où le ballon rond, dans le contexte particulier des Coupes du monde, s’est retrouvé au cœur des enjeux politiques internationaux, en partant des prémices, en 1900, jusqu’à l’édition qatarie de 2022. L’auteur nous explique comment depuis cent vingt ans, la plus grande compétition sportive a toujours été un outil propice aux jeux d’influence et de pouvoir. Kévin Veyssière, 30 ans, expert et professeur en géopolitique du sport, a créé Football Club Geopolitics, un compte Twitter suivi par plus de 55 000 personnes. Il est l’auteur de Football Club Geopolitics : 22 histoires insolites pour comprendre le monde (Max Milo, 2021).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782315010509"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2315010500"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 215,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0diHEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0diHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=0diHEAAAQBAJ&printsec=frontcover&dq=les+coulisses+du+football&hl=&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0diHEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0diHEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0diHEAAAQBAJ&rdid=book-0diHEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Mondial_Football_Club_Geopolitics_Tome_2-sample-epub.acsm?id=0diHEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Mondial_Football_Club_Geopolitics_Tome_2-sample-pdf.acsm?id=0diHEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0diHEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dans ce deuxième tome, Kévin Veyssière raconte 22 nouvelles histoires où le ballon rond, dans le contexte particulier des Coupes du monde, s’est retrouvé au cœur des enjeux politiques internationaux, en partant des prémices, en ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_qxwEAAAQBAJ",
+      "etag": "BW7jf5iPuWI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_qxwEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Jeunes et mariés",
+        "subtitle": "« On verra dans 10 ans... »",
+        "authors": [
+          "Nathan Kabuma"
+        ],
+        "publisher": "Librinova",
+        "publishedDate": "2022-06-29T00:00:00Z",
+        "description": "C'est l'histoire d'un mariage qui n'aurait pas dû fonctionner. Après avoir affronté vents contraires et scepticisme en tout genre, Polo et Melissa Mpoku se livrent, pour le dixième anniversaire de leur mariage, au récit poignant des coulisses de leur union. De la difficulté à enfanter aux empoisonnées rumeurs infondées, tout ressort de la boîte à souvenirs avec un but : témoigner de la grandeur de Dieu lorsque ce dernier soutient l'amour de deux simples adolescents.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791040508342"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 109,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_qxwEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_qxwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=_qxwEAAAQBAJ&printsec=frontcover&dq=les+coulisses+du+football&hl=&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_qxwEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_qxwEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 8.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_qxwEAAAQBAJ&rdid=book-_qxwEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Jeunes_et_mari%C3%A9s-sample-epub.acsm?id=_qxwEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Jeunes_et_mari%C3%A9s-sample-pdf.acsm?id=_qxwEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_qxwEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "C&#39;est l&#39;histoire d&#39;un mariage qui n&#39;aurait pas dû fonctionner."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f_HZEAAAQBAJ",
+      "etag": "GuuyHhXaQS0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f_HZEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Football",
+        "subtitle": "Pour rire !",
+        "authors": [
+          "Jean-Pierre Gauffre"
+        ],
+        "publisher": "Sud Ouest",
+        "publishedDate": "2023-09-16T00:00:00+02:00",
+        "description": "Le foot, on adore ou déteste. Parfois même, on adore le détester. C’est en tout cas le sport universel par excellence, de Rio à Paris, de Londres à Tokyo, du Caire à Johannesburg. Sans oublier les terrains du dimanche matin, où les amateurs se défoulent pour le plaisir, loin des milliardaires du ballon rond. L’occasion était trop belle, en cette année de coupe du monde, pour passer le sport roi à la moulinette de l’humour décalé.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782817710464"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2817710460"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f_HZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f_HZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=f_HZEAAAQBAJ&pg=PT149&dq=les+coulisses+du+football&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=f_HZEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=f_HZEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=f_HZEAAAQBAJ&rdid=book-f_HZEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Football-sample-epub.acsm?id=f_HZEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Football-sample-pdf.acsm?id=f_HZEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f_HZEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>coulisses</b> de l&#39;équipe de France commence par un footing dans la forêt de Clairefontaine au son du « Peace and Tranquility to earth » de Roudoudou . Il nous promène du « Tear drop » de Massive Attack au « Ray of light » de Madonna en&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xzRjEAAAQBAJ",
+      "etag": "MZFqSOkJRN0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xzRjEAAAQBAJ",
+      "volumeInfo": {
+        "title": "L'Important c'est les trois points",
+        "authors": [
+          "Fabrice Bocquet"
+        ],
+        "publisher": "Amphora",
+        "publishedDate": "2022-04-21",
+        "description": "Le football génère de nombreux excès. Très médiatique, brassant des sommes d’argent considérables, addictif, il peut faire perdre la raison. Comment expliquer que de brillants chefs d’entreprise s’y aventurant éprouvent parfois les pires difficultés à faire réussir leur club ? Les causes sont rarement étudiées, d’autant qu’il existe peu de livres traitant du management d’un club, travail de l’ombre pourtant essentiel. Fabrice Bocquet, ancien directeur général du FC Lorient, nous fait bénéficier de son expérience. Il décrit les coulisses du fonctionnement d’un club de football, du pilotage d’un mercato à la construction d’un effectif professionnel. Vous découvrirez qu’un club de foot, c’est : 1. Une entreprise avec de fortes spécificités. 2. Une identité à valoriser. 3. Des émotions à canaliser et accompagner. Telles sont les clés du succès du management d’un club. Car dans le foot, l’important, c’est les trois points !",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782757609392"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2757609394"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 371,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xzRjEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xzRjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=xzRjEAAAQBAJ&printsec=frontcover&dq=les+coulisses+du+football&hl=&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xzRjEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xzRjEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=xzRjEAAAQBAJ&rdid=book-xzRjEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/L_Important_c_est_les_trois_points-sample-epub.acsm?id=xzRjEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/L_Important_c_est_les_trois_points-sample-pdf.acsm?id=xzRjEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xzRjEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fabrice Bocquet, ancien directeur général du FC Lorient, nous fait bénéficier de son expérience."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qLhjDwAAQBAJ",
+      "etag": "W7ltB6MPVWY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qLhjDwAAQBAJ",
+      "volumeInfo": {
+        "title": "I love this game",
+        "authors": [
+          "Patrice Evra"
+        ],
+        "publisher": "Hugo Sport",
+        "publishedDate": "2018-09-13",
+        "description": "Personnage culte du football mondial, Patrice Évra raconte pour la première fois la véritable histoire de son ascension extraordinaire jusqu'aux sommets de ce sport. Et règle ses comptes sans langue de bois, comme à son habitude. Né à Dakar au sein d'une famille de 26 frères et soeurs, Patrice Évra est arrivé en France à l'âge d'un an. Le football lui a permis de s'échapper d'un univers où le crime et le trafic de drogue étaient monnaie courante et après une première expérience professionnelle en Italie, c'est à Nice puis à Monaco qu'il a commencé à faire parler de lui. Mais c'est à Manchester United, sous les ordres de sir Alex Ferguson et aux côtés de Cristiano Ronaldo ou de Wayne Rooney, qu'il a fait éclater son talent, remportant cinq fois la Premier League, ainsi que la Ligue des Champions en 2008. Il a quitté MU en véritable héros pour rejoindre la Juventus, où il a pris sous son aile un certain Paul Pogba, avant de partir pour Marseille puis West Ham. Mais la singularité d'Évra, c'est d'avoir autant de talent pour la controverse que pou r le football. Son altercation avec Luis Suarez, son rôle de capitaine lors de la Coupe du monde 2010 et donc à Knysna, et plus récemment son high-kick sur un supporter de son propre club, l'OM, l'ont fait entrer dans la légende. Charismatique, chambreur, incontrôlable, Évra est, avec plus de 3 millions de followers sur Instagram qu'il régale de ses vidéos cultes, l'un des footballeurs les plus populaires de la planète.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782755645927"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "275564592X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 317,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qLhjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qLhjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=qLhjDwAAQBAJ&printsec=frontcover&dq=les+coulisses+du+football&hl=&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qLhjDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qLhjDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qLhjDwAAQBAJ&rdid=book-qLhjDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/I_love_this_game-sample-epub.acsm?id=qLhjDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/I_love_this_game-sample-pdf.acsm?id=qLhjDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qLhjDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dans I love this game, l&#39;autobiographie de Patrice Evra, la star de Manchester United et de l&#39;équipe de France revient sur sa vie et sa carrière remarquables."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FLtFEAAAQBAJ",
+      "etag": "KO/Ptr6a0Tw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FLtFEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Bernard Lacombe, L'instinct du foot",
+        "authors": [
+          "Romain Génard",
+          "Bernard Lacombe"
+        ],
+        "publisher": "Solar",
+        "publishedDate": "2021-11-10",
+        "description": "L'incroyable carrière d'un gamin rêveur de Gerland qui a tout connu dans le football, des vestiaires sans eau chaude aux millions de la Ligue des champions, en passant par la première grande victoire du football français en 1984. Préface de Michel Platini En près de cinquante ans passés dans le football professionnel, Bernard Lacombe a tout vécu. Les années de passion et de rêve quand son absolu était de devenir professionnel à Lyon ; les années de disette des 70' quand l'équipe de France ne tournait pas rond ; les sommets avec la victoire de l'équipe de France à l'Euro 1984, le premier titre du foot français ; la domination sans partage du Bordeaux de Claude Bez... Dès la fin de sa carrière, en 1987, il s'engage au côté du jeune président de l'OL, Jean-Michel Aulas, qui ambitionne de faire de son club, alors en D2, un grand d'Europe. À l'OL, gardant la confiance de son président pendant vingt ans, Lacombe aura été entraîneur, directeur sportif, conseiller, chargé du recrutement... Il favorisera ainsi la venue de Sonny Anderson et de Juninho (actuel directeur sportif) ou l'éclosion d'un certain Karim Benzema. Désormais retiré des affaires du foot, Bernard Lacombe, revient dans ce livre fourmillant d'anecdotes et de révélations sur les coulisses du foot, sur son extraordinaire carrière, tantôt avec le regard chambreur du coéquipier de Giresse ou Platini, tantôt avec l'œil bienveillant du formateur fier d'avoir lancé de jeunes talents. Avec les témoignages de : Fleury Di Nallo, Aimé Jacquet, Alain Giresse, Marius Trésor, Jacques Santini, Sidney Govou...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782263177835"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2263177833"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 365,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FLtFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FLtFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=FLtFEAAAQBAJ&printsec=frontcover&dq=les+coulisses+du+football&hl=&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FLtFEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FLtFEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FLtFEAAAQBAJ&rdid=book-FLtFEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Bernard_Lacombe_L_instinct_du_foot-sample-epub.acsm?id=FLtFEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Bernard_Lacombe_L_instinct_du_foot-sample-pdf.acsm?id=FLtFEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FLtFEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Préface de Michel Platini En près de cinquante ans passés dans le football professionnel, Bernard Lacombe a tout vécu."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CYdDEAAAQBAJ",
+      "etag": "BPm5jPI/TgQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CYdDEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Jouer Dantzig sur un match de football",
+        "authors": [
+          "Pierre Drieu la Rochelle"
+        ],
+        "publisher": "Editions Gallimard",
+        "publishedDate": "2021-10-14T00:00:00+02:00",
+        "description": "Ce volume met en lumière l’apprentissage intellectuel du jeune Drieu, puis retrace en filigrane son parcours et ses fonctions jusqu’à sa mort. Les carnets de l’étudiant, à Sciences Po et en voyage en Angleterre, apportent un éclairage nouveau sur Pierre Drieu la Rochelle : d’une étonnante maturité à 16 ans, réfléchissant à l’art, la littérature, la politique et la civilisation européenne. Il semble avoir déjà tout lu. Drieu évoque entre autres Barrès, Rousseau, Nietzsche, Disraeli, Schopenhauer, Amiel. Il médite dans des autoportraits à la troisième personne (« Il se rêvait nouveau B. Constant ») et, fasciné par les hommes d’action, se confie sur son caractère jugé trop timoré (il se surnomme « Cœur-de-lièvre »). Puis ce sont les carnets de caserne et de guerre aux Dardanelles, avec ses missions de sergent (défense d’un tirailleur sénégalais) mêlées aux réflexions sur la littérature. Plus tard, dans un carnet d’Argentine (1932), l’on suit ses déplacements et sa découverte des paysages, puis un carnet « Gilles » (38-39) nous plonge dans les coulisses de son grand roman. Enfin, les carnets de la guerre de 40 nous renseignent sur ses préoccupations quotidiennes (la gestion de La NRF, des noms de prisonniers à libérer, ses rendez-vous, etc.).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782072930751"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2072930758"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 185,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CYdDEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CYdDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=CYdDEAAAQBAJ&printsec=frontcover&dq=les+coulisses+du+football&hl=&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=CYdDEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CYdDEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=CYdDEAAAQBAJ&rdid=book-CYdDEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Jouer_Dantzig_sur_un_match_de_football-sample-epub.acsm?id=CYdDEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Jouer_Dantzig_sur_un_match_de_football-sample-pdf.acsm?id=CYdDEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CYdDEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Les carnets de l’étudiant, à Sciences Po et en voyage en Angleterre, apportent un éclairage nouveau sur Pierre Drieu la Rochelle : d’une étonnante maturité à 16 ans, réfléchissant à l’art, la littérature, la politique et la ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MUxIEAAAQBAJ",
+      "etag": "HFahng0BGAc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MUxIEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Libre arbitre",
+        "subtitle": "Autobiographie",
+        "authors": [
+          "Marcel Javaux",
+          "David De Myttenaere"
+        ],
+        "publisher": "Éditions Chronica",
+        "publishedDate": "2021-10-14",
+        "description": "Dans Libre arbitre, Marcel revient sur son parcours incroyable de près de 1.000 matches arbitrés, sur ses plus grandes fiertés mais aussi ses profondes déceptions dans le monde du foot. Il en profite pour dévoiler une multitude d’anecdotes étonnantes sur sa vie personnelle, sur les coulisses du monde du foot, de l'arbitrage ou de La Tribune. Il se remémore aussi, avec émotion, le difficile combat que son épouse et lui ont mené contre le Covid-19. Un témoignage émouvant, sincère et sans langue de bois. Du Marcel tout craché ! À PROPOS DE L'AUTEUR En une vie, Marcel Javaux a embrassé plusieurs carrières dans l’univers du football, mais toujours avec un seul but : servir le ballon rond. Il a été joueur, puis arbitre pendant 28 ans (y compris en D1) et enfin chroniqueur télé sur les antennes de la RTBF. Chez les Javaux, le football est virus familial : son père Auguste, boulanger à Villance, était arbitre avant lui et ses quatre frères sont eux, aussi, tombés dans la marmite de l’arbitrage. Son franc-parler et ses avis sans concession lui ont parfois joué des tours. Mais Marcel a toujours défendu ses idées et, contre vents et marées, une vision positive du sport et du fair-play. Son parcours étonnant a amené cet Ardennais d'origine sur les terrains, de la province du Luxembourg jusqu'à Moscou en passant par les pelouses de D1 belge. Lui permettant de côtoyer les plus grandes personnalités du foot...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782931115084"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2931115088"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 211,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MUxIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MUxIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=MUxIEAAAQBAJ&printsec=frontcover&dq=les+coulisses+du+football&hl=&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MUxIEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MUxIEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MUxIEAAAQBAJ&rdid=book-MUxIEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MUxIEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dans Libre arbitre, Marcel revient sur son parcours incroyable de près de 1.000 matches arbitrés, sur ses plus grandes fiertés mais aussi ses profondes déceptions dans le monde du foot."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LKOvzgEACAAJ",
+      "etag": "5UJ0T1mFy/A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LKOvzgEACAAJ",
+      "volumeInfo": {
+        "title": "Racing Club de Bafoussam",
+        "subtitle": "Voyage au coeur d'un club mythique de football du Cameroun",
+        "authors": [
+          "Patrice Aymar Nzukou Wakam"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-10-15",
+        "description": "Racing de Bafoussam Racing Club de Bafoussam ! Tout-Puissant de l'Ouest (TPO) ! Équipe chérie de la Mifi ! etc. Nombre de vocables pour désigner une équipe de football qui a laissé une empreinte indélébile sur le football camerounais. \"Ô Racing Pôma Nyanga !\", ont coutume de chanter les fanatiques de l'équipe dont les couleurs historiques sont le Rouge et le Blanc ! Pour pousser les joueurs à ne point tomber dans la facilité. Dénommé \"Armée cinglée\", le club des supporters de Racing de Bafoussam avec son équipe d'animation haute en couleurs, a toujours été l'un des autres pôles d'attraction pendant les matchs du TPO à travers le pays. En remontant le temps, ce livre revèle nombre de secrets et insolites qui ont marqué l'histoire de ce qui reste plus qu'un club de football. C'est l'histoire d'une équipe de football dont la naissance suit la christianisation de la métropole régionale de l'Ouest-Cameroun. Ouvrage mémoriel et historique, ce livre retrace aussi les épopées d'une équipe de football, ciment d'une région et témoignage vivant de l'assemblage au cours des décennies, des nationaux venus de toutes les régions du pays. Sans oublier le passage de quelques joueurs internationaux dont le plus mémorable fut la star nigériane Henry Nwosu. Quelle est la génèse de la ville de Bafoussam ? Comment est née la filière des joueurs venus de la zone anglophone du pays ? Qui ont été les architectes de l'ombre des épopées du TPO ? Quelles ont été les coulisses des transferts? Pourquoi et comment le TPO perdit la fameuse finale de la coupe du Cameroun 1988? Etc...? Un ouvrage historique, truffé d'anecdotes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798543915417"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 366,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LKOvzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LKOvzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=LKOvzgEACAAJ&dq=les+coulisses+du+football&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.be/books?id=LKOvzgEACAAJ&dq=les+coulisses+du+football&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Racing_Club_de_Bafoussam.html?hl=&id=LKOvzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LKOvzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Racing Club de Bafoussam !"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xctDEAAAQBAJ",
+      "etag": "hJygpHm1y2E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xctDEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Les hors-jeu du football français",
+        "subtitle": "Le coup de gueule d'un éducateur",
+        "authors": [
+          "Yacine HAMENED"
+        ],
+        "publisher": "Talent Sport",
+        "publishedDate": "2021-09-22",
+        "description": "La France est, avec le Brésil, le plus gros pourvoyeur de footballeurs au monde. Mais tout ne tourne pas toujours rond sur cette piste aux étoiles. Yacine, éducateur de football, vit au quotidien la chasse au talent : il nous livre son coup de gueule. « Au bord des terrains, c’est souvent un bien triste spectacle de parents hystériques qui perdent toute mesure. Une faute non sifflée sur leur enfant, et ce sont toutes les insultes du monde (quand ce ne sont pas les coups) qui s’abattent sur un arbitre, même pas encore majeur parfois. Un entraîneur qui remplace un enfant et là, ce sont les parents qui voient rouge parce qu’il paraît qu’il y avait (peut-être) un recruteur au bord du terrain et que le train de la richesse est en train de filer à cause de l’éducateur. Les éducateurs eux-mêmes n’ont rien fait pour calmer les choses. Le meilleur joueur de l’effectif se comporte mal ? Pas grave, il fait gagner l’équipe, donc on ferme les yeux. [...] Des arbitres assistants qui sont en fait des dirigeants et qui n’hésitent pas à tricher pour que leur équipe gagne. » À bout, Yacine Hamened nous raconte son expérience et donne ses propositions pour renouer avec les vraies valeurs de ce sport. À travers des interviews exclusives de scouts, joueurs et entraîneurs, l’auteur nous dévoile les coulisses du football professionnel, sur le terrain de la chasse aux jeunes talents et des potentiels millions qui font rêver leurs entourages. Il décrypte le cas des stars du PSG, des clubs et de la Ligue de football. Ce livre vous aidera à comprendre le fonctionnement des clubs amateurs, à trouver les meilleurs centres de formation et comment les intégrer, et les pièges à éviter pour vos enfants.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782378152260"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2378152264"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 135,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xctDEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xctDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=xctDEAAAQBAJ&dq=les+coulisses+du+football&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.be/books?id=xctDEAAAQBAJ&dq=les+coulisses+du+football&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Les_hors_jeu_du_football_fran%C3%A7ais.html?hl=&id=xctDEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xctDEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Pas grave, il fait gagner l’équipe, donc on ferme les yeux. [...] Des arbitres assistants qui sont en fait des dirigeants et qui n’hésitent pas à tricher pour que leur équipe gagne. » À bout, Yacine Hamened nous raconte son ..."
+      }
+    }
+  ]
+}

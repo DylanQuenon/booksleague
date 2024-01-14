@@ -1,4 +1,4 @@
-@import '../variables.scss';
+@import '../src/app/variables.scss';
 
 header.navbar {
     width: 100%;
@@ -56,7 +56,7 @@ header.navbar {
     cursor: pointer;
     position: fixed;
     right: 4%;
-    top: 3%;
+    top: 1%;
     z-index: 200;
 
     .bar {
@@ -166,3 +166,4 @@ header.navbar {
     z-index: 10;
     transition: width 0.5s ease-in;  /* Add smooth transition effect */
   }
+
