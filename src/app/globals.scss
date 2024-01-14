@@ -305,6 +305,11 @@ p{
                         font-weight: 500;
                         padding: 20px 40px;
                         background-color: $beige;
+                        transition: all 0.2s;
+                        &:hover{
+                            background-color: $black;
+                            color: $beige;
+                        }
                     
                 }
             }
