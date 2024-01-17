@@ -226,20 +226,22 @@ body {
       }
 }
 
-#mostRecent{
-    .row{
-        display: grid;
-        width: 100%;
-        grid-template-columns: repeat(3,1fr);
-        @media (max-width: 790px) {
-            grid-template-columns: repeat(2,1fr);
-           grid-gap: 40px;
-           place-items: center;
-         }
-        @media (max-width: 492px) {
-            grid-template-columns: repeat(1,1fr);
-         }
-    }
+
+.row{
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(3,1fr);
+    @media (max-width: 790px) {
+        grid-template-columns: repeat(2,1fr);
+       grid-gap: 40px;
+       place-items: center;
+     }
+    @media (max-width: 492px) {
+        grid-template-columns: repeat(1,1fr);
+     }
+     #books &{
+        grid-gap:50px
+     }
 }
 .bookview{
     text-decoration: none;
@@ -331,5 +333,19 @@ p{
                 align-items: center;
             }
         }
+    }
+}
+
+#books{
+    #titlebooks{
+        margin-top: 100px;
+        position: relative;
+        &::after{
+            position: absolute;
+            top: -27%;
+            left: -1%;
+            z-index: -5;
+          }
+
     }
 }
