@@ -1,23 +1,61 @@
-import {marked} from "marked";
+
 import { getBook } from "../../../../lib/book";
+import Image from "next/image";
 
 export default async function BookPage({ params: { id } }) {
   const book = await getBook(id);
 
   return (
     <>
-      <h1>{book.title}</h1>
-      <div className="flex gap-3 items-baseline">
-        <p className="italic pb-2">{book.publishedDate}</p>
-      </div>
+      <div className="slide" id="bookpres">
+        <div className="wrapper">
+          <h2 className="subtitle">{book.title}</h2>
+          <div className="block-book">
+            <div className="left">
+              {book.image ? (
+                <Image
+                  src={book.image}
+                  width={205}
+                  height={300}
+                  alt={book.title}
+                  className="bookPic"
+                />
+              ) : (
+                <p>Image non disponible</p>
+              )}
 
-      <div className="w-full">
-        <p>{`Authors: ${book.authors.join(", ")}`}</p>
-        <p>{`Publisher: ${book.publisher}`}</p>
-      </div>
+            </div>
+            <div className="right">
+              <div className="block-pres">
+                <p>
+                  <b>Auteur:</b> <i>{book.authors}</i>
+                </p>
+                <p>
+                  <b>Editions:</b> <i>{book.editions}</i>
+                </p>
+                <p>
+                  <b>Prix:</b>{" "}
+                  <i>
+                    {book.listPriceAmount} {book.currencyCode}
+                  </i>
+                </p>
+                <p>
+                  <b>Editions:</b>{" "}
+                  <i>
+                    {book.publisher} 
+                  </i>
+                </p>
+                
+                
 
-      <div className="w-full">
-        <p className="font-semibold pb-3" dangerouslySetInnerHTML={{__html: book.body}}></p>
+                
+                
+              </div>
+            </div>
+          </div>
+                  <b>Résumé:</b>{" "}
+                   <article dangerouslySetInnerHTML={{__html: book.description}}/>
+        </div>
       </div>
     </>
   );

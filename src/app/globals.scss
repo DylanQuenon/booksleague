@@ -349,3 +349,37 @@ p{
 
     }
 }
+
+#bookpres{
+    h2{
+        margin-top: 100px;
+    }
+    .block-book{
+        flex-wrap: wrap;
+        display: flex;
+        justify-content: space-evenly;
+        width: 100%;
+        .left{
+            width: 20%;
+            @media (max-width: 790px) {
+                width: 100%;
+                 }
+
+        }
+        .right{
+            width: 50%;
+            @media (max-width: 790px) {
+                width: 100%;
+                 }
+        }
+        p{
+            margin: 20px 0;
+        }
+    }
+    article{
+        margin: 20px 0;
+        p,br{
+            margin: 15px 0;
+        }
+    }
+}

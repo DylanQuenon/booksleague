@@ -2,8 +2,11 @@
 import{ useState, useEffect } from "react";
 import { getBooks } from "../lib/book";
 import Image from "next/image";
+import styles from "./search.module.scss"
+
 
 import Link from "next/link";
+
 
 export default function Search() {
   const [search, setSearch] = useState("");
@@ -23,13 +26,19 @@ export default function Search() {
   );
 
   return (
-    <div>
+    <>
+    <div className={styles.rowGroup}>
       <input
         type="text"
         placeholder="Rechercher des livres"
         value={search}
         onChange={(e) => setSearch(e.target.value)}
+        className={styles.search}
+     
       />
+   
+
+    </div>
 
       <div className="row">
       {filteredBooks.map((book) => (
@@ -49,6 +58,6 @@ export default function Search() {
         ))}
 
       </div>
-    </div>
+    </>
   );
 }
