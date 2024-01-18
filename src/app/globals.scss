@@ -12,6 +12,10 @@ body {
     width: 100%;
     min-height: 100vh;
     position: relative;
+    @media (max-width: 992px) {
+      min-height: auto;
+      }
+      
 }
 .wrapper {
     width: 85%;
@@ -75,66 +79,7 @@ body {
             p {
                 line-height: 2em;
             }
-            .link_more {
-                width: 100%;
-                display: flex;
-                justify-content: flex-end;
-                .button_anim {
-                    color: $black;
-                    position: relative;
-                    padding: 15px 60px;
-                    text-transform: uppercase;
-                    z-index: 2;
-                    text-decoration: none;
-                    transition: all 1s;
-                    &::after {
-                        content: "";
-                        position: absolute;
-                        top: 0;
-                        left: 55%;
-                        width: 50px;
-                        height: 50px;
-                        transition: transform 1s;
-                        border-radius: 100%;
-                        transform-origin: left;
-                        transition: transform 1s;
-                        background-color: $beige;
-                        text-decoration: none;
-                        z-index: -1;
-                    }
-
-                    &:hover::after {
-                        content: "";
-                        position: absolute;
-                        top: 0;
-                        left: 10%;
-
-                        width: 162px;
-                        height: 50px;
-                        border-radius: 20px;
-                        color: white;
-                        transition: all 1s;
-                        transform: scaleX(1);
-
-                        background-color: $beige;
-                        text-decoration: none;
-                        z-index: -1;
-                    }
-
-                    &:not(:hover)::after {
-                        transition: all 1s;
-                    }
-                    &:hover span {
-                        opacity: 1;
-                    }
-                }
-                span {
-                    opacity: 0;
-                    z-index: 2;
-                    transition: all 1s;
-                    color: $black;
-                }
-            }
+           
         }
         justify-content: space-between;
         .block-right {
@@ -175,6 +120,90 @@ body {
                 }
             }
         }
+    }
+}
+.link_more {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    .button_anim {
+        color: $black;
+        position: relative;
+        padding: 15px 60px;
+        text-transform: uppercase;
+        z-index: 2;
+        text-decoration: none;
+        transition: all 1s;
+        &::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 55%;
+            width: 50px;
+            height: 50px;
+            transition: transform 1s;
+            border-radius: 100%;
+            transform-origin: left;
+            transition: transform 1s;
+            background-color: $beige;
+            text-decoration: none;
+            z-index: -1;
+        }
+
+        &:hover::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 10%;
+
+            width: 162px;
+            height: 50px;
+            border-radius: 20px;
+            color: white;
+            transition: all 1s;
+            transform: scaleX(1);
+
+            background-color: $beige;
+            text-decoration: none;
+            z-index: -1;
+        }
+
+        &:not(:hover)::after {
+            transition: all 1s;
+        }
+        &:hover span {
+            opacity: 1;
+        }
+    }
+    span {
+        opacity: 0;
+        z-index: 2;
+        transition: all 1s;
+        color: $black;
+    }
+}
+.link_books{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    .buttonBooks{
+        background-color: $beige;
+        color: $black;
+        padding: 15px 20px;
+        text-decoration: none;
+        margin: 40px 0;
+        transition: all 0.2s;
+        &:hover{
+            border-radius: 100px;
+            background-color: $black;
+            color: $beige;
+            transform: translateY(-20px);
+        }
+    }
+    #presentation &{
+        justify-content: start;
+        display: flex;
+        width: 100%;
     }
 }
 .bandeau{
@@ -230,6 +259,7 @@ body {
 .row{
     display: grid;
     width: 100%;
+    place-items: center;
     grid-template-columns: repeat(3,1fr);
     @media (max-width: 790px) {
         grid-template-columns: repeat(2,1fr);
@@ -278,7 +308,7 @@ p{
     .block-flex{
         display: flex;
         width: 100%;
-        @media (max-width: 790px) {
+        @media (max-width: 1024px) {
            flex-direction: column;
             }
        min-height: calc(100vh - 200px);
@@ -286,7 +316,7 @@ p{
         align-items: center;
         .left{
             width: 70%;
-            @media (max-width: 790px) {
+            @media (max-width: 1024px) {
             width: 100%;
              @include flexCenterColumn();
              margin-bottom: 50px ;
@@ -295,13 +325,14 @@ p{
                 p{
                     width: 75%;
                     line-height: 2rem;
-                    margin: 50px 0;
-                    @media (max-width: 790px) {
+                    margin: 20px 0;
+                    @media (max-width: 1024px) {
              width: 100%;
              }
                 }
                 .link{
-                    margin: 50px 0 ;
+                    margin-top: 50px;
+                    display: block;
                     text-decoration: none;
                         color: $black;
                         font-weight: 500;
@@ -315,10 +346,14 @@ p{
                     
                 }
             }
+           .rowButton{
+            width: 100%;
+            display: flex;
+           }
         }
         .right{
             width: 30%;
-            @media (max-width: 790px) {
+            @media (max-width: 1024px) {
            display: flex;
            justify-content: center;
            width: 100%;
@@ -381,5 +416,39 @@ p{
         p,br{
             margin: 15px 0;
         }
+    }
+
+}
+
+#contact{
+    h2{
+        margin-top:100px;
+    }
+    .circlesvg{
+        width: 50px;
+        height: 50px;
+        background-color: $black;
+        border-radius: 100%;
+        @include flexCenter();
+        svg{
+            stroke: $beige;
+            fill: $beige;
+            height: 25px;
+           
+        }
+    }
+    p{
+        margin: 20px 0;
+    }
+    .row{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 40px;
+        gap: 20px;
+    }
+    #link{
+        display: flex;
+        width: 100%;
+        justify-content: start !important;
     }
 }

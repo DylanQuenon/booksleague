@@ -1,4 +1,3 @@
-
 import { getBook } from "../../../../lib/book";
 import Image from "next/image";
 
@@ -23,38 +22,33 @@ export default async function BookPage({ params: { id } }) {
               ) : (
                 <p>Image non disponible</p>
               )}
-
             </div>
             <div className="right">
               <div className="block-pres">
                 <p>
-                  <b>Auteur:</b> <i>{book.authors}</i>
+                  <b>Auteur:</b> <i>{book.authors || "non disponible"}</i>
                 </p>
                 <p>
-                  <b>Editions:</b> <i>{book.editions}</i>
+                  <b>Editions:</b> <i>{book.editions || "non disponible"}</i>
                 </p>
                 <p>
                   <b>Prix:</b>{" "}
                   <i>
-                    {book.listPriceAmount} {book.currencyCode}
+                    {book.listPriceAmount || "non disponible"} {book.currencyCode || "non disponible"}
                   </i>
                 </p>
                 <p>
-                  <b>Editions:</b>{" "}
-                  <i>
-                    {book.publisher} 
-                  </i>
+                  <b>Editions:</b> <i>{book.publisher || "non disponible"}</i>
                 </p>
-                
-                
-
-                
-                
               </div>
             </div>
           </div>
-                  <b>Résumé:</b>{" "}
-                   <article dangerouslySetInnerHTML={{__html: book.description}}/>
+          <b>Résumé:</b>{" "}
+          <article
+            dangerouslySetInnerHTML={{
+              __html: book.description || "non disponible",
+            }}
+          />
         </div>
       </div>
     </>

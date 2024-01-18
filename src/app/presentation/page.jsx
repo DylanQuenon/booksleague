@@ -1,5 +1,7 @@
+import Link from "next/link";
 import "../globals.scss";
 import Image from "next/image";
+import { ArrowRightIcon } from "@heroicons/react/outline";
 export const metadata={
     title:{
         default:'Presentation',
@@ -15,9 +17,17 @@ export default function PresentationPage()
                     <div className="left">
                 <h2 className="subtitle" id="subPresentation">Qui sommes-nous?</h2>
                         <div className="jumbotronPres">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi neque velit, sodales non dapibus sit amet, mollis id turpis. Donec a nisi vitae magna tincidunt pellentesque. Suspendisse eu ante sit amet nibh sagittis interdum quis sed ipsum. </p>
+                            <p>Explorez l&apos;univers captivant du football avec BooksLeague. Plongez dans des histoires riches en émotions, des récits mémorables et des coulisses passionnantes du sport que vous aimez. Laissez-vous emporter par notre collection soigneusement sélectionnée qui célèbre la beauté du jeu à travers chaque page. </p>
+                            <p>Chez BooksLeague, chaque livre est une invitation à vivre intensément le football sous de nouvelles perspectives. Que vous soyez un passionné du sport ou un lecteur avide en quête de découvertes, notre bibliothèque vous promet des moments de lecture inoubliables, où la magie du football prend vie à chaque ligne.</p>
                         
-                                <a href="#" className="link">Accédez aux livres</a>
+                            <div className="link_books" id="link" >
+            <Link href="/books" className="buttonBooks">
+              Voir les livres{" "}
+              <span>
+                <ArrowRightIcon className="icon" />
+              </span>
+            </Link>
+          </div>
                             
                         </div>
                     </div>
@@ -25,8 +35,8 @@ export default function PresentationPage()
                         <div className="boxPic">
                         <Image
                       src='/images/pile.png'
-                      width={400}
-                      height={350}
+                      width={300}
+                      height={250}
                       alt="Pile de livres"
               
                     />

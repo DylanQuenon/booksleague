@@ -8,8 +8,7 @@ import Link from "next/link";
 
 
 export default async function Home() {
-
-  const books = await getBooks(3)
+  const books = await getBooks(3);
 
   return (
     <>
@@ -20,8 +19,9 @@ export default async function Home() {
             <div className="jumbotron">
               <h1>BOOKS LEAGUE</h1>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Recusandae distinctio maxime eaque dolorum doloribus possimus.
+                BooksLeague - Explorez l&apos;univers du football à travers les
+                pages, vivez chaque but, chaque émotion, chaque histoire
+                captivante
               </p>
               <div className="link_more">
                 <a href="/presentation" className="button_anim">
@@ -68,8 +68,12 @@ export default async function Home() {
             Les plus récents
           </h2>
           <div className="row">
-           {books.map((book) => (
-              <Link key={book.title} href={`/books/${book.id}`} className="bookview">
+            {books.map((book) => (
+              <Link
+                key={book.title}
+                href={`/books/${book.id}`}
+                className="bookview"
+              >
                 <div className="bookview">
                   <div className="picBookView">
                     <Image
@@ -77,9 +81,7 @@ export default async function Home() {
                       width={100}
                       height={150}
                       alt={book.title}
-              
                     />
-
                   </div>
                   <h3>{book.title}</h3>
                   <p>By {book.authors}</p>
@@ -87,7 +89,14 @@ export default async function Home() {
                 </div>
               </Link>
             ))}
-
+          </div>
+          <div className="link_books" id="viewBooks">
+            <Link href="/books" className="buttonBooks">
+              Voir les livres{" "}
+              <span>
+                <ArrowRightIcon className="icon" />
+              </span>
+            </Link>
           </div>
         </div>
       </div>

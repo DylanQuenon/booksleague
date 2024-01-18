@@ -8,7 +8,7 @@ module.exports = {
   },
 
   images: {
-    domains: ["books.google.com", "www.googleapis.com"], 
+    domains: ["books.google.com", "www.googleapis.com",], 
     /*
     remotePatterns: [
       {
