@@ -2,6 +2,7 @@ import Link from "next/link";
 import "../globals.scss";
 import Image from "next/image";
 import { ArrowRightIcon } from "@heroicons/react/outline";
+import Template from "../Template";
 export const metadata={
     title:{
         default:'Presentation',
@@ -10,7 +11,7 @@ export const metadata={
 export default function PresentationPage()
 {
     return(
-        <>
+        <Template>
           <div className="slide" id="presentation">
             <div className="wrapper">
                 <div className="block-flex">
@@ -45,6 +46,6 @@ export default function PresentationPage()
                 </div>
             </div>
           </div>
-        </>
+        </Template>
     )
 }

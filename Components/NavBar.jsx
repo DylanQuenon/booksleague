@@ -63,6 +63,7 @@ export default function NavBar() {
         <nav>
           <ul>
             <li>
+            
               <Link href="/" onClick={handleLinkClick}>
                 Accueil
               </Link>
@@ -78,6 +79,7 @@ export default function NavBar() {
               </Link>
             </li>
             <li>
+              
               <Link href="/contact" onClick={handleLinkClick}>
                 Contact
               </Link>

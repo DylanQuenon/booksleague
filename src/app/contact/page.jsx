@@ -3,6 +3,7 @@ import Image from "next/image";
 import { ArrowRightIcon } from "@heroicons/react/outline";
 
 import Link from "next/link";
+import Template from "../Template";
 
 export const metadata = {
   title: {
@@ -11,7 +12,7 @@ export const metadata = {
 };
 export default function ContactPage() {
   return (
-    <>
+    <Template>
       <div className="slide" id="contact">
         <div className="wrapper">
           <h2 className="subtitle">Contactez-nous</h2>
@@ -56,7 +57,7 @@ export default function ContactPage() {
           </div>
         </div>
       </div>
-    </>
+    </Template>
   );
 }
 

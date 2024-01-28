@@ -1,0 +1,41 @@
+@import "../src/app/variables.scss";
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+
+  ul {
+    display: flex;
+    list-style: none;
+  }
+
+  li {
+    margin: 0 0.5rem;
+    list-style: none;
+    flex: 1;
+
+    button {
+        padding: 10px 15px;
+      color: #333;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      background-color: $beige;
+      cursor: pointer;
+
+      font-weight: bold;
+
+      &:hover {
+        background: #f2f2f2;
+      }
+    }
+  }
+}
+
+li.active button  {
+  background-color: $black !important;
+  color: $beige;
+}
+li.invisible{
+    display: none !important;
+}

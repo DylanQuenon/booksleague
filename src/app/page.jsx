@@ -4,6 +4,8 @@ import "./globals.scss";
 import { ArrowRightIcon } from "@heroicons/react/outline";
 import { getBooks } from "../../lib/book";
 import Link from "next/link";
+import Book from "../../Components/Book";
+import Template from "./Template";
 
 
 
@@ -11,7 +13,7 @@ export default async function Home() {
   const books = await getBooks(3);
 
   return (
-    <>
+    <Template>
       <div className="slide" id="home">
         <div className="circle" id="circle_home"></div>
         <div className="wrapper">
@@ -69,25 +71,7 @@ export default async function Home() {
           </h2>
           <div className="row">
             {books.map((book) => (
-              <Link
-                key={book.title}
-                href={`/books/${book.id}`}
-                className="bookview"
-              >
-                <div className="bookview">
-                  <div className="picBookView">
-                    <Image
-                      src={book.image}
-                      width={100}
-                      height={150}
-                      alt={book.title}
-                    />
-                  </div>
-                  <h3>{book.title}</h3>
-                  <p>By {book.authors}</p>
-                  <p>{book.description.substring(0, 50)}...</p>
-                </div>
-              </Link>
+             <Book key={book.id} book={book} />
             ))}
           </div>
           <div className="link_books" id="viewBooks">
@@ -100,6 +84,6 @@ export default async function Home() {
           </div>
         </div>
       </div>
-    </>
+    </Template>
   );
 }
