@@ -279,6 +279,11 @@ body {
     @include flexCenterColumn();
     align-items: start;
     line-height: 1.5rem;
+    transition: all 0.2s ease-in-out;
+    &:hover{
+        transform: scale(1.02) translateY(-5px);
+
+    }
 p{
     margin: 2px 0;
 }
