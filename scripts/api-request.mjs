@@ -1,11 +1,11 @@
-import "dotenv/config";
+
 import fetch from 'node-fetch';
 import { writeFileSync } from 'fs';
 
 async function fetchAndWriteGoogleBooksData() {
   try {
     const googleBooksUrl = 'https://www.googleapis.com/books/v1/volumes';
-    const apiKey = process.env.GOOGLE_BOOKS_API_KEY;
+    const apiKey = "AIzaSyAOrXNWOcB5bNoZTgrlMiZR9lBl6OOJQ4Y"
     const queryParams = {
       q: 'les coulisses du football', 
       maxResults: 20, 
