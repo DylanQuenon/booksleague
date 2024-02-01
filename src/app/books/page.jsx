@@ -33,10 +33,16 @@ export default function BooksPage() {
   };
 
   const itemsPerPage = 9;
-  const paginatedBooks = Pagination.getData(filteredBooks, currentPage, itemsPerPage);
+  const paginatedBooks = Pagination.getData(
+    filteredBooks,
+    currentPage,
+    itemsPerPage
+  );
 
   return (
-    <Template key={key}> {/* Utilisation de la clé unique ici */}
+    <Template key={key}>
+      {" "}
+      {/* Utilisation de la clé unique ici */}
       <div className="slide" id="books">
         <div className="wrapper">
           <h2 className="subtitle" id="titlebooks">
@@ -54,8 +60,16 @@ export default function BooksPage() {
           </div>
 
           {books.length === 0 && (
-            <Image width="300" height="300" src="/images/loading-gif.gif" alt="Gif Chargement" />
+            <Image
+              width="300"
+              height="300"
+              src="/images/loading-gif.gif"
+              alt="Gif Chargement"
+            />
           )}
+
+          {paginatedBooks.length === 0 && <p>Aucun résultat</p>}
+
           <div className="row">
             {paginatedBooks.map((book) => (
               <Book key={book.id} book={book} />
