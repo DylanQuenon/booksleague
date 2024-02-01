@@ -6,6 +6,7 @@ import { getBooks } from "../../lib/book";
 import Link from "next/link";
 import Book from "../../Components/Book";
 import Template from "./Template";
+import Button from "../../Components/Button";
 
 
 
@@ -26,12 +27,12 @@ export default async function Home() {
                 captivante
               </p>
               <div className="link_more">
-                <a href="/presentation" className="button_anim">
+                <Link href="/presentation" className="button_anim">
                   Voir plus{" "}
                   <span>
                     <ArrowRightIcon className="icon" />
                   </span>
-                </a>
+                </Link>
               </div>
               <div className="circle" id="circle_bottom"></div>
             </div>
@@ -67,7 +68,7 @@ export default async function Home() {
       <div className="slide" id="mostRecent">
         <div className="wrapper">
           <h2 className="subtitle" id="recent">
-            Les plus récents
+            Les plus populaires
           </h2>
           <div className="row">
             {books.map((book) => (
@@ -75,12 +76,7 @@ export default async function Home() {
             ))}
           </div>
           <div className="link_books" id="viewBooks">
-            <Link href="/books" className="buttonBooks">
-              Voir les livres{" "}
-              <span>
-                <ArrowRightIcon className="icon" />
-              </span>
-            </Link>
+           <Button/>
           </div>
         </div>
       </div>

@@ -34,28 +34,28 @@ export default async function BookPage({ params: { id } }) {
             <div className="right">
               <div className="block-pres">
                 <p>
-                  <b>Auteur:</b> <i>{book.authors.join(" ") || "non disponible"}</i>
+                  <b>Auteur:</b> <i>{book.authors.join(" ") }</i>
                 </p>
                 <p>
-                  <b>ISBN:</b> <i>{book.isbn || "non disponible"}</i>
+                  <b>ISBN:</b> <i>{book.isbn }</i>
                 </p>
                 <p>
                   <b>Prix:</b>{" "}
                   <i>
-                    {book.listPriceAmount || "non disponible"}{" "}
-                    {book.currencyCode || "non disponible"}
+                    {book.listPriceAmount } {" "}
+                    { book.currencyCode }
                   </i>
                 </p>
                 <p>
-                  <b>Editions:</b> <i>{book.publisher || "non disponible"}</i>
+                  <b>Editions:</b> <i>{book.publisher}</i>
                 </p>
                 <p>
                   <b>Date de publication:</b>{" "}
-                  <i>{book.publishedDate || "non disponible"}</i>
+                  <i>{book.publishedDate }</i>
                 </p>
                 <p>
                   <b>Nombre de pages:</b>{" "}
-                  <i>{book.pageCount || "non disponible"}</i>
+                  <i>{book.pageCount }</i>
                 </p>
               </div>
             </div>
@@ -63,7 +63,7 @@ export default async function BookPage({ params: { id } }) {
           <b>Résumé:</b>{" "}
           <article
             dangerouslySetInnerHTML={{
-              __html: book.description || "non disponible",
+              __html: book.description,
             }}
           />
         </div>

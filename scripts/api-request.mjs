@@ -11,7 +11,7 @@ async function fetchAndWriteGoogleBooksData() {
       maxResults: 20, 
       langRestrict: 'fr',
       orderBy: 'newest',
-      subject: "Biography & Autobiography / Sports",
+      subject: "Football",
       key: apiKey,
     };
 

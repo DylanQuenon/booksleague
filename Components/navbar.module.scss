@@ -9,7 +9,6 @@ header.navbar {
   background-color: $background;
   box-shadow: 0px 0px 10px $beige;
 
-  
   nav {
     width: 50%;
 
@@ -164,13 +163,11 @@ header.navbar {
 }
 
 #progressbar {
-  height: 8px;
+  height: 5px;
   background-color: $black;
-position: fixed;
-top: 0;
+  position: fixed;
+  top: 0;
   border-radius: 20px;
-
-
   z-index: 10;
   transition: width 0.5s ease-in; /* Add smooth transition effect */
 }
@@ -197,4 +194,3 @@ top: 0;
   opacity: 0.01;
   transition: opacity 300ms ease-in;
 }
-

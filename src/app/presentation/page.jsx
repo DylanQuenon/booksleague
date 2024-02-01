@@ -3,6 +3,7 @@ import "../globals.scss";
 import Image from "next/image";
 import { ArrowRightIcon } from "@heroicons/react/outline";
 import Template from "../Template";
+import Button from '../../../Components/Button'
 export const metadata={
     title:{
         default:'Presentation',
@@ -22,12 +23,7 @@ export default function PresentationPage()
                             <p>Chez BooksLeague, chaque livre est une invitation à vivre intensément le football sous de nouvelles perspectives. Que vous soyez un passionné du sport ou un lecteur avide en quête de découvertes, notre bibliothèque vous promet des moments de lecture inoubliables, où la magie du football prend vie à chaque ligne.</p>
                         
                             <div className="link_books" id="link" >
-            <Link href="/books" className="buttonBooks">
-              Voir les livres{" "}
-              <span>
-                <ArrowRightIcon className="icon" />
-              </span>
-            </Link>
+          <Button/>
           </div>
                             
                         </div>

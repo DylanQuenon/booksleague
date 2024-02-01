@@ -154,14 +154,12 @@ body {
             position: absolute;
             top: 0;
             left: 10%;
-
             width: 162px;
             height: 50px;
             border-radius: 20px;
             color: white;
             transition: all 1s;
             transform: scaleX(1);
-
             background-color: $beige;
             text-decoration: none;
             z-index: -1;
@@ -413,6 +411,7 @@ p{
     article{
         margin: 20px 0;
         p,br{
+            line-height: 2rem;
             margin: 15px 0;
         }
     }
@@ -420,6 +419,46 @@ p{
 }
 
 #contact{
+    @media (max-width: 992px) {
+      .wrapper{
+        width: 100%;
+      }
+        }
+    .block-contact{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+      gap: 120px;
+      @media (max-width: 992px) {
+      gap: 20px;
+        }
+        .left{
+            width: 60%;
+            @media (max-width: 992px) {
+                order: 2;
+                width: 100%;
+                &:nth-child(1){
+                    min-height: 100px;
+                }
+                }
+           iframe{
+            width: 100%;
+            border: none;
+            min-height: 500px;
+            @media (max-width: 992px) {
+                min-height: 250px;
+                }
+           }
+        }
+        .right{
+            width: 30%;
+            @media (max-width: 992px) {
+               width: 85%;
+               margin: 0 auto;
+               order: 1;
+                }
+        }
+    }
     h2{
         margin-top:100px;
     }
@@ -468,6 +507,12 @@ p{
     border: solid 2px $beige;
     position: relative;
     display: block;
+    @media (max-width: 992px) {
+        width: 85%;
+        margin: 0 auto;
+        order: 1;
+         }
+    
     &:focus{
         
         outline: none;
@@ -509,4 +554,11 @@ p{
     opacity: 0;
     transition: opacity 500ms;
   }
-  
+  footer{
+    width: 100%;
+    min-height: 85px;
+    @include flexCenter();
+    color: $beige;
+    background-color: $black;
+    margin-top: 20px;
+  }
