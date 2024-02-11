@@ -567,3 +567,26 @@ p{
     background-color: $black;
     margin-top: 20px;
   }
+
+  .sort {
+    padding: 8px 15px; /* Augmenter légèrement la taille du padding */
+    border-radius: 10px;
+    background-color: $beige;
+    border: none;
+    cursor: pointer; 
+    option {
+        padding: 8px 15px; 
+        display: block;
+        border-radius: 10px;
+        cursor: pointer;
+        border: none;
+        margin: 0;
+        :hover {
+          background-color: $black ;
+          color: $black !important;
+        }
+      }
+      
+  }
+  
+  

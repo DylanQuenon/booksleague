@@ -1,4 +1,4 @@
-"use client"
+'use client'
 import { useState, useEffect } from "react";
 import Image from "next/image";
 import { getBooks } from "../../../lib/book";
@@ -10,7 +10,14 @@ export default function BooksPage() {
   const [search, setSearch] = useState("");
   const [books, setBooks] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
-  const [key, setKey] = useState(Date.now()); // Ajout de la clé unique
+  const [key, setKey] = useState(Date.now());
+  const [sortBy, setSortBy] = useState(() => {
+    if (typeof window !== 'undefined') {
+      return localStorage.getItem('sortBy') || 'title-asc';
+    } else {
+      return 'title-asc'; // Valeur par défaut si localStorage n'est pas disponible
+    }
+  });
 
   const fetchBooks = async () => {
     const data = await getBooks(27);
@@ -27,22 +34,47 @@ export default function BooksPage() {
       book.authors.join(" ").toLowerCase().includes(search.toLowerCase())
   );
 
+  const sortBooks = (books, sortBy) => {
+    switch (sortBy) {
+      case "title-asc":
+        return books.sort((a, b) => a.title.localeCompare(b.title));
+      case "title-desc":
+        return books.sort((a, b) => b.title.localeCompare(a.title));
+      case "author-asc":
+        return books.sort((a, b) => a.authors[0].localeCompare(b.authors[0]));
+      case "author-desc":
+        return books.sort((a, b) => b.authors[0].localeCompare(a.authors[0]));
+
+
+      default:
+        return books;
+    }
+  };
+
+  const sortedBooks = sortBooks(filteredBooks, sortBy);
+
   const handlePageChange = (page) => {
     setCurrentPage(page);
-    setKey(Date.now()); // Réinitialisation de la clé unique
+    setKey(Date.now());
+  };
+
+  const handleSortChange = (e) => {
+    const value = e.target.value;
+    setSortBy(value);
+    if (typeof window !== 'undefined') {
+      localStorage.setItem("sortBy", value); // Enregistrer le choix du filtre dans le local storage
+    }
   };
 
   const itemsPerPage = 9;
   const paginatedBooks = Pagination.getData(
-    filteredBooks,
+    sortedBooks,
     currentPage,
     itemsPerPage
   );
 
   return (
     <Template key={key}>
-      {" "}
-      {/* Utilisation de la clé unique ici */}
       <div className="slide" id="books">
         <div className="wrapper">
           <h2 className="subtitle" id="titlebooks">
@@ -57,6 +89,24 @@ export default function BooksPage() {
               onChange={(e) => setSearch(e.target.value)}
               className="search"
             />
+          </div>
+
+          <div className="rowGroup">
+            <select
+              value={sortBy}
+              onChange={handleSortChange}
+              className="sort"
+            >
+              <option  disabled>
+                Trier par...
+              </option>
+
+              <option value="title-asc">Titre (A-Z)</option>
+              <option value="title-desc">Titre (Z-A)</option>
+              <option value="author-asc">Auteur (A-Z)</option>
+              <option value="author-desc">Auteur (Z-A)</option>
+
+            </select>
           </div>
 
           {books.length === 0 && (
@@ -77,11 +127,11 @@ export default function BooksPage() {
           </div>
         </div>
       </div>
-      {itemsPerPage < filteredBooks.length && (
+      {itemsPerPage < sortedBooks.length && (
         <Pagination
           currentPage={currentPage}
           itemsPerPage={itemsPerPage}
-          length={books.length}
+          length={sortedBooks.length}
           onPageChanged={handlePageChange}
         />
       )}
