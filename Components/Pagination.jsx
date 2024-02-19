@@ -2,16 +2,16 @@ import { motion } from "framer-motion";
 import styles from "../Components/pagination.module.scss";
 
 const Pagination = (props) => {
-  const pagesCount = Math.ceil(props.length / props.itemsPerPage);
+  const pagesCount = Math.ceil(props.length / props.itemsPerPage); // on compte les pages
   const pages = [];
 
   for (let i = 1; i <= pagesCount; i++) {
-    pages.push(i);
+    pages.push(i); //on les pousse dans le tableau
   }
 
   return (
     <motion.div
-      key={props.currentPage} // Added key to remount component on page change
+      key={props.currentPage} // pour lancer l'animation à chaque fois qu'on change de page
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}

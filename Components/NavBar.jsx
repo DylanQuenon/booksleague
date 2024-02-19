@@ -5,15 +5,15 @@ import Link from "next/link";
 import styles from "./navbar.module.scss";
 
 export default function NavBar() {
-  const [open, setOpen] = useState(false);
-  const [scrollProgress, setScrollProgress] = useState(0);
+  const [open, setOpen] = useState(false); // pour vérifier le menu burger
+  const [scrollProgress, setScrollProgress] = useState(0); // la progression du scroll
 
-  const headerRef = useRef(null);
-  
-  const progressbarRef = useRef(null);
+  const headerRef = useRef(null); //on va selectionner le header
+
+  const progressbarRef = useRef(null);//on va selectionner la barre de progression 
 
   const handleMenuClick = () => {
-    setOpen(!open);
+    setOpen(!open); // il est fermé de base
   };
 
   const handleLinkClick = () => {
@@ -23,13 +23,13 @@ export default function NavBar() {
   useEffect(() => {
     const header = headerRef.current;
     const progressbar = progressbarRef.current;
-    const lastScrollValue = { current: 0 };
+    const lastScrollValue = { current: 0 }; // valeur par défaut 0
     const burger = document.getElementById(styles.burger);
 
-    const handleScroll = () => {
-      const top = document.documentElement.scrollTop;
-      if (lastScrollValue.current < top) {
-        header.classList.add(styles.hide);
+    const handleScroll = () => { // au scroll
+      const top = document.documentElement.scrollTop; // on va chercher le scroll top
+      if (lastScrollValue.current < top) { //on vient vérifier si on descend au scroll ou si on remonte
+        header.classList.add(styles.hide); // on adapte les classes en fonction
         header.classList.remove(styles.show);
         burger.classList.add(styles.hide);
         burger.classList.remove(styles.show);
@@ -63,7 +63,7 @@ export default function NavBar() {
         <nav>
           <ul>
             <li>
-            
+
               <Link href="/" onClick={handleLinkClick}>
                 Accueil
               </Link>
@@ -79,7 +79,7 @@ export default function NavBar() {
               </Link>
             </li>
             <li>
-              
+
               <Link href="/contact" onClick={handleLinkClick}>
                 Contact
               </Link>
@@ -90,9 +90,9 @@ export default function NavBar() {
 
       <div
         id={styles.burger}
-        className={`${open ? styles.openBurger : ""} ${
+        className={`${open ? styles.openBurger : ""} ${ // si il est ouvert il prend la css du menu ouvert et si il est ouvert on fait la rotation  de la croix
           open ? styles.rotate180 : ""
-        }`}
+          }`}
         onClick={handleMenuClick}
       >
         <div
@@ -109,7 +109,7 @@ export default function NavBar() {
       <div
         ref={progressbarRef}
         id={styles.progressbar}
-        style={{ width: `${scrollProgress}%` }}
+        style={{ width: `${scrollProgress}%` }} // la barre de progression
       ></div>
 
       <div

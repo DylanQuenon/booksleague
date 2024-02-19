@@ -2,16 +2,16 @@
 import Image from "next/image";
 import "./globals.scss";
 import { ArrowRightIcon } from "@heroicons/react/outline";
-import { getBooks } from "../../lib/book";
+import { getBooks } from "@/lib/book";
 import Link from "next/link";
-import Book from "../../Components/Book";
+import Book from "@/Components/Book";
 import Template from "./Template";
-import Button from "../../Components/Button";
+import Button from "@/Components/Button";
 
 
 
 export default async function Home() {
-  const books = await getBooks(3);
+  const books = await getBooks(3); // on en récupère que 3
 
   return (
     <Template>

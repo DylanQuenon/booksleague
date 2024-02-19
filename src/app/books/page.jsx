@@ -1,19 +1,19 @@
 'use client'
 import { useState, useEffect } from "react";
-import Image from "next/image";
-import { getBooks } from "../../../lib/book";
-import Book from "../../../Components/Book";
-import Pagination from "../../../Components/Pagination";
+import { getBooks } from "@/lib/book";
+import Book from "@/Components/Book";
+import Pagination from "@/Components/Pagination";
 import Template from "../Template";
+import BookLoader from "@/Components/loaders/BookLoader";
 
 export default function BooksPage() {
-  const [search, setSearch] = useState("");
+  const [search, setSearch] = useState(""); // les states 
   const [books, setBooks] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
-  const [key, setKey] = useState(Date.now());
+  const [key, setKey] = useState(Date.now()); // on attribue une key unique pour le template sur base de la date exacte
   const [sortBy, setSortBy] = useState(() => {
-    if (typeof window !== 'undefined') {
-      return localStorage.getItem('sortBy') || 'title-asc';
+    if (typeof window !== 'undefined') { // test pour éviter une erreur au lancement a cause du localstorage
+      return localStorage.getItem('sortBy') || 'title-asc'; // soit on récupère ce qu'il y'a dans le localstorage pour le tri ou on met le titre a à z par défaut
     } else {
       return 'title-asc'; // Valeur par défaut si localStorage n'est pas disponible
     }
@@ -21,20 +21,20 @@ export default function BooksPage() {
 
   const fetchBooks = async () => {
     const data = await getBooks(27);
-    setBooks(data);
+    setBooks(data); //on charge les livres
   };
 
   useEffect(() => {
-    fetchBooks();
+    fetchBooks(); // on appelle la fonction dans le useeffect
   }, []);
 
-  const filteredBooks = books.filter(
+  const filteredBooks = books.filter( //on filtre les livres sur base de leur auteurs ou le titre pour la recherche
     (book) =>
       book.title.toLowerCase().includes(search.toLowerCase()) ||
       book.authors.join(" ").toLowerCase().includes(search.toLowerCase())
   );
 
-  const sortBooks = (books, sortBy) => {
+  const sortBooks = (books, sortBy) => { // on trie les livres pour les filtres avec une switch case
     switch (sortBy) {
       case "title-asc":
         return books.sort((a, b) => a.title.localeCompare(b.title));
@@ -54,7 +54,7 @@ export default function BooksPage() {
   const sortedBooks = sortBooks(filteredBooks, sortBy);
 
   const handlePageChange = (page) => {
-    setCurrentPage(page);
+    setCurrentPage(page); // on change la page et la key  pour l'animation 
     setKey(Date.now());
   };
 
@@ -68,7 +68,7 @@ export default function BooksPage() {
 
   const itemsPerPage = 9;
   const paginatedBooks = Pagination.getData(
-    sortedBooks,
+    sortedBooks,// récupère les données de la pagination
     currentPage,
     itemsPerPage
   );
@@ -97,7 +97,7 @@ export default function BooksPage() {
               onChange={handleSortChange}
               className="sort"
             >
-              <option  disabled>
+              <option disabled>
                 Trier par...
               </option>
 
@@ -110,19 +110,15 @@ export default function BooksPage() {
           </div>
 
           {books.length === 0 && (
-            <Image
-              width="300"
-              height="300"
-              src="/images/loading-gif.gif"
-              alt="Gif Chargement"
-            />
+            <BookLoader /> // on appelle le loader si c'est = a 0
           )}
+          {/* si on trouve rien on affiche aucun résultat */}
 
           {paginatedBooks.length === 0 && <p>Aucun résultat</p>}
 
           <div className="row">
             {paginatedBooks.map((book) => (
-              <Book key={book.id} book={book} />
+              <Book key={book.id} book={book} /> // on appelle le composant livre et attribue le livre correspondant
             ))}
           </div>
         </div>
@@ -136,5 +132,6 @@ export default function BooksPage() {
         />
       )}
     </Template>
+    //template qui utilise l'animation
   );
 }

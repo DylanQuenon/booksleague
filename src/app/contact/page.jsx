@@ -1,8 +1,4 @@
 import "../globals.scss";
-import Image from "next/image";
-import { ArrowRightIcon } from "@heroicons/react/outline";
-
-import Link from "next/link";
 import Template from "../Template";
 
 export const metadata = {
@@ -12,6 +8,7 @@ export const metadata = {
 };
 export default function ContactPage() {
   return (
+    //template qui utilise l'animation
     <Template>
       <div className="slide" id="contact">
         <div className="wrapper">

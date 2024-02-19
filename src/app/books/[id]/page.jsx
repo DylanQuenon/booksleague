@@ -1,5 +1,5 @@
-import Template from "@/app/Template";
-import { getBook } from "../../../../lib/book";
+import Template from "../../Template";
+import { getBook } from "@/lib/book";
 import Image from "next/image";
 
 
@@ -13,6 +13,7 @@ export default async function BookPage({ params: { id } }) {
   const book = await getBook(id);
 
   return (
+    //template qui utilise l'animation
     <Template>
       <div className="slide" id="bookpres">
         <div className="wrapper">
@@ -34,16 +35,17 @@ export default async function BookPage({ params: { id } }) {
             <div className="right">
               <div className="block-pres">
                 <p>
-                  <b>Auteur:</b> <i>{book.authors.join(" ") }</i>
+                  <b>Auteur:</b> <i>{book.authors.join(" ")}</i>
                 </p>
                 <p>
-                  <b>ISBN:</b> <i>{book.isbn }</i>
+                  <b>ISBN:</b> <i>{book.isbn}</i>
                 </p>
                 <p>
                   <b>Prix:</b>{" "}
                   <i>
-                    {book.listPriceAmount } {" "}
-                    { book.currencyCode }
+                    {/* pour gérer les espaces */}
+                    {book.listPriceAmount} {" "}
+                    {book.currencyCode}
                   </i>
                 </p>
                 <p>
@@ -51,16 +53,17 @@ export default async function BookPage({ params: { id } }) {
                 </p>
                 <p>
                   <b>Date de publication:</b>{" "}
-                  <i>{book.publishedDate }</i>
+                  <i>{book.publishedDate}</i>
                 </p>
                 <p>
                   <b>Nombre de pages:</b>{" "}
-                  <i>{book.pageCount }</i>
+                  <i>{book.pageCount}</i>
                 </p>
               </div>
             </div>
           </div>
           <b>Résumé:</b>{" "}
+          {/* on place ici le résumé du livre, on peut utiliser la balise article pour le mettre en forme */}
           <article
             dangerouslySetInnerHTML={{
               __html: book.description,
