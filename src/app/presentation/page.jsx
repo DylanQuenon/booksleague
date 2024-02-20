@@ -1,4 +1,3 @@
-
 import "../globals.scss";
 import Image from "next/image";
 import Template from "../Template";

@@ -7,9 +7,9 @@ export default function Book({ book }) {
     <Link href={`/books/${book.id}`} className="bookview">
       <div className="bookview">
         <div className="picBookView">
-        {book.image && ( //vérifie l'existence de l'image
-        <Image src={book.image} width={100} height={150} alt={book.title} />
-        )}
+          {book.image && ( //vérifie l'existence de l'image
+            <Image src={book.image} width={100} height={150} alt={book.title} />
+          )}
         </div>
         <h3>{book.title}</h3>
         <p>By {book.authors.join(" ")}</p>
